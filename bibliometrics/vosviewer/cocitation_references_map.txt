@@ -1,0 +1,255 @@
+id	label	weight<Citations in corpus>	score<Pub. year>	description	url
+1	Muganyi (2021)	51	2021	Green finance, fintech and environmental protection: Evidence from China	https://doi.org/10.1016/j.ese.2021.100107
+2	Zhou (2021)	40	2021	The impact of fintech innovation on green growth in China: Mediating effect of green finance	https://doi.org/10.1016/j.ecolecon.2021.107308
+3	Yang (2021)	36	2021	Nexus between green finance, fintech, and high-quality economic development: Empirical evidence from China	https://doi.org/10.1016/j.resourpol.2021.102445
+4	Tao (2021)	32	2021	Can Fintech development pave the way for a transition towards low-carbon economy: A global perspective	https://doi.org/10.1016/j.techfore.2021.121278
+5	Vergara (2021)	31	2021	Fintech and Sustainability: Do They Affect Each Other?	https://doi.org/10.3390/su13137012
+6	Udeagha (2023)	31	2023	Green finance, fintech, and environmental sustainability: fresh policy insights from the BRICS nations	https://doi.org/10.1080/13504509.2023.2183526
+7	Liu (2022)	24	2022	Natural resources, green innovation, fintech, and sustainability: A fresh insight from BRICS	https://doi.org/10.1016/j.resourpol.2022.103119
+8	Deng (2019)	23	2019	FinTech and Sustainable Development: Evidence from China Based on P2P Data	https://doi.org/10.3390/su11226434
+9	Udeagha (2023)	23	2023	The drivers of environmental sustainability in BRICS economies: Do green finance and fintech matter?	https://doi.org/10.1016/j.wds.2023.100096
+10	Croutzet (2021)	22	2021	Do FinTech trigger renewable energy use? Evidence from OECD countries	https://doi.org/10.1016/j.renene.2021.07.144
+11	Zheng (2022)	22	2022	The effect of Fintech adoption on green finance and environmental performance of banking institutions during the COVID-19 pandemic: the role of green innovation	https://doi.org/10.1007/s11356-022-23956-z
+12	Mirza (2023)	22	2023	The role of fintech in promoting green finance, and profitability: Evidence from the banking sector in the euro zone	https://doi.org/10.1016/j.eap.2023.02.001
+13	Sreenu (2022)	21	2022	Impact of fintech and green finance on environmental quality protection in India: By applying the semi-parametric difference-in-differences (SDID)	https://doi.org/10.1016/j.renene.2022.05.020
+14	Liu (2021)	21	2021	Impact of Green financing, FinTech, and financial inclusion on energy efficiency	https://doi.org/10.1007/s11356-021-16949-x
+15	Pesaran (2007)	20	2007	A simple panel unit root test in the presence of cross‐section dependence	https://doi.org/10.1002/jae.951
+16	Westerlund (2007)	20	2007	Testing for Error Correction in Panel Data*	https://doi.org/10.1111/j.1468-0084.2007.00477.x
+17	Zhang (2021)	20	2021	Fostering green development with green finance: An empirical study on the environmental effect of green credit policy in China	https://doi.org/10.1016/j.jenvman.2021.113159
+18	Gomber (2018)	19	2018	On the Fintech Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation in Financial Services	https://doi.org/10.1080/07421222.2018.1440766
+19	Arner (2020)	19	2020	Sustainability, FinTech and Financial Inclusion	https://doi.org/10.1007/s40804-020-00183-y
+20	Lee (2017)	17	2017	Fintech: Ecosystem, business models, investment decisions, and challenges	https://doi.org/10.1016/j.bushor.2017.09.003
+21	Sreenu (2023)	17	2023	Impact of green finance and fintech on sustainable economic growth: Empirical evidence from India	https://doi.org/10.1016/j.heliyon.2023.e16301
+22	Thakor (2019)	16	2019	Fintech and banking: What do we know?	https://doi.org/10.1016/j.jfi.2019.100833
+23	Pesaran (2007)	16	2007	Testing slope homogeneity in large panels	https://doi.org/10.1016/j.jeconom.2007.05.010
+24	Zhou (2020)	15	2020	Impact of green finance on economic development and environmental quality: a study based on provincial panel data from China	https://doi.org/10.1007/s11356-020-08383-2
+25	Ozili (2018)	15	2018	Impact of digital finance on financial inclusion and stability	https://doi.org/10.1016/j.bir.2017.12.003
+26	Haddad (2018)	15	2018	The emergence of the global fintech market: economic and technological determinants	https://doi.org/10.1007/s11187-018-9991-x
+27	Wan (2023)	15	2023	Is Fintech good for green finance? Empirical evidence from listed banks in China	https://doi.org/10.1016/j.eap.2023.10.019
+28	Ren (2020)	15	2020	Nexus between green finance, non-fossil energy use, and carbon intensity: Empirical evidence from China based on a vector error correction model	https://doi.org/10.1016/j.jclepro.2020.122844
+29	Dorfleitner (2019)	14	2019	Fintech, Digitalization and Blockchain: Possible Applications for Green Finance	https://doi.org/10.1007/978-3-030-22510-0_9
+30	Buchak (2018)	14	2018	Fintech, regulatory arbitrage, and the rise of shadow banks	https://doi.org/10.1016/j.jfineco.2018.03.011
+31	Macchiavello (2022)	14	2022	Sustainable Finance and Fintech: Can Technology Contribute to Achieving Environmental Goals? A Preliminary Assessment of ‘Green Fintech’ and ‘Sustainable Digital Finance’	https://doi.org/10.1515/ecfr-2022-0005
+32	Flammer (2021)	14	2021	Corporate green bonds	https://doi.org/10.1016/j.jfineco.2021.01.010
+33	Awais (2023)	14	2023	Is fintech the new path to sustainable resource utilisation and economic development?	https://doi.org/10.1016/j.resourpol.2023.103309
+34	Puschmann (2020)	14	2020	How Green FinTech Can Alleviate the Impact of Climate Change—The Case of Switzerland	https://doi.org/10.3390/su122410691
+35	Wang (2022)	13	2022	Does green finance inspire sustainable development? Evidence from a global perspective	https://doi.org/10.1016/j.eap.2022.06.002
+36	Aria (2017)	13	2017	bibliometrix : An R-tool for comprehensive science mapping analysis	https://doi.org/10.1016/j.joi.2017.08.007
+37	Anshari (2019)	13	2019	Digital Marketplace and FinTech to Support Agriculture Sustainability	https://doi.org/10.1016/j.egypro.2018.11.134
+38	Gomber (2017)	12	2017	Digital Finance and FinTech: current research and future research directions	https://doi.org/10.1007/s11573-017-0852-x
+39	Zheng (2021)	12	2021	Factors Affecting the Sustainability Performance of Financial Institutions in Bangladesh: The Role of Green Finance	https://doi.org/10.3390/su131810165
+40	Galeone (2024)	12	2024	ESG and FinTech: Are they connected?	https://doi.org/10.1016/j.ribaf.2024.102225
+41	Meo (2021)	12	2021	The role of green finance in reducing CO2 emissions: An empirical analysis	https://doi.org/10.1016/j.bir.2021.03.002
+42	Udeagha (2023)	12	2023	Striving for the United Nations ( UN ) sustainable development goals ( SDGs ) in BRICS economies: The role of green finance, fintech, and natural resource rent	https://doi.org/10.1002/sd.2618
+43	Zheng (2021)	12	2021	Green Finance Development in Bangladesh: The Role of Private Commercial Banks (PCBs)	https://doi.org/10.3390/su13020795
+44	Grossman (1994)	11	1994	Economic Growth and the Environment	https://doi.org/10.2307/2118443
+45	Zhang (2019)	11	2019	A bibliometric analysis on green finance: Current status, development, and future directions	https://doi.org/10.1016/j.frl.2019.02.003
+46	Yan (2022)	11	2022	A Two-Staged SEM-Artificial Neural Network Approach to Analyze the Impact of FinTech Adoption on the Sustainability Performance of Banking Firms: The Mediating Effect of Green Finance and Innovation	https://doi.org/10.3390/systems10050148
+47	Qin (2023)	11	2023	Empirical evidence of fintech and green environment: Using the green finance as a mediating variable	https://doi.org/10.1016/j.iref.2023.07.056
+48	Karim (2022)	11	2022	Is FinTech providing effective solutions to Small and Medium Enterprises (SMEs) in ASEAN countries?	https://doi.org/10.1016/j.eap.2022.05.019
+49	Cheng (2023)	11	2023	How does fintech influence carbon emissions: Evidence from China's prefecture-level cities	https://doi.org/10.1016/j.irfa.2023.102655
+50	Chin (2022)	11	2022	The impact of green finance on environmental degradation in BRI region	https://doi.org/10.1007/s10668-022-02709-5
+51	Chen (2022)	11	2022	The Effect of Green Banking Practices on Banks’ Environmental Performance and Green Financing: An Empirical Study	https://doi.org/10.3390/en15041292
+52	Lee (2022)	11	2022	How does green finance affect green total factor productivity? Evidence from China	https://doi.org/10.1016/j.eneco.2022.105863
+53	Akomea-Frimpong (2021)	11	2021	A review of studies on green finance of banks, research gaps and future directions	https://doi.org/10.1080/20430795.2020.1870202
+54	Murinde (2022)	10	2022	The impact of the FinTech revolution on the future of banking: Opportunities and risks	https://doi.org/10.1016/j.irfa.2022.102103
+55	Podsakoff (2003)	10	2003	Common method biases in behavioral research: A critical review of the literature and recommended remedies.	https://doi.org/10.1037/0021-9010.88.5.879
+56	Fornell (1981)	10	1981	Evaluating Structural Equation Models with Unobservable Variables and Measurement Error	https://doi.org/10.1177/002224378101800104
+57	Tamasiga (2022)	10	2022	Unlocking the Green Economy in African Countries: An Integrated Framework of FinTech as an Enabler of the Transition to Sustainability	https://doi.org/10.3390/en15228658
+58	Xu (2023)	10	2023	Analysis of the carbon emission reduction effect of Fintech and the transmission channel of green finance	https://doi.org/10.1016/j.frl.2023.104127
+59	Zhang (2023)	10	2023	Impact of green finance and environmental protection on green economic recovery in South Asian economies: mediating role of FinTech	https://doi.org/10.1007/s10644-023-09500-0
+60	Demir (2020)	10	2020	Fintech, financial inclusion and income inequality: a quantile regression approach	https://doi.org/10.1080/1351847x.2020.1772335
+61	Donthu (2021)	10	2021	How to conduct a bibliometric analysis: An overview and guidelines	https://doi.org/10.1016/j.jbusres.2021.04.070
+62	Hesary (2019)	10	2019	The way to induce private participation in green finance and investment	https://doi.org/10.1016/j.frl.2019.04.016
+63	Wang (2020)	10	2020	Can fintech improve the efficiency of commercial banks? —An analysis based on big data	https://doi.org/10.1016/j.ribaf.2020.101338
+64	Irfan (2022)	10	2022	Influence mechanism between green finance and green innovation: Exploring regional policy intervention effects in China	https://doi.org/10.1016/j.techfore.2022.121882
+65	Afzal (2022)	10	2022	Green finance and sustainable development in Europe	https://doi.org/10.1080/1331677x.2021.2024081
+66	Machado (2019)	10	2019	Quantiles via moments	https://doi.org/10.1016/j.jeconom.2019.04.009
+67	B (2019)	10	2019	To FinTech and Beyond	https://doi.org/10.1093/rfs/hhz025
+68	Hunjra (2023)	10	2023	Nexus between green finance, environmental degradation, and sustainable development: Evidence from developing countries	https://doi.org/10.1016/j.resourpol.2023.103371
+69	Xu (2020)	10	2020	Untangling the Impact of Green Finance on the Enterprise Green Performance: A Meta-Analytic Approach	https://doi.org/10.3390/su12219085
+70	Dwivedi (2021)	10	2021	Role of FinTech Adoption for Competitiveness and Performance of the Bank: A Study of Banking Industry in UAE	https://doi.org/10.1007/s42943-021-00033-9
+71	Zhang (2022)	10	2022	Do Green Banking Activities Improve the Banks’ Environmental Performance? The Mediating Effect of Green Financing	https://doi.org/10.3390/su14020989
+72	Im (2003)	10	2003	Testing for unit roots in heterogeneous panels	https://doi.org/10.1016/s0304-4076(03)00092-7
+73	Tan (2022)	10	2022	Fintech development, renewable energy consumption, government effectiveness and management of natural resources along the belt and road countries	https://doi.org/10.1016/j.resourpol.2022.103251
+74	Kwong (2023)	10	2023	Green FinTech Innovation as a Future Research Direction: A Bibliometric Analysis on Green Finance and FinTech	https://doi.org/10.3390/su152014683
+75	Guo (2022)	10	2022	FinTech and financing constraints of enterprises: Evidence from China	https://doi.org/10.1016/j.intfin.2022.101713
+76	Anagnostopoulos (2018)	9	2018	Fintech and regtech: Impact on regulators and banks	https://doi.org/10.1016/j.jeconbus.2018.07.003
+77	Bollaert (2021)	9	2021	Fintech and access to finance	https://doi.org/10.1016/j.jcorpfin.2021.101941
+78	Rasoulinezhad (2022)	9	2022	Role of green finance in improving energy efficiency and renewable energy development	https://doi.org/10.1007/s12053-022-10021-4
+79	Bayram (2022)	9	2022	Can Fintech Promote Sustainable Finance? Policy Lessons from the Case of Turkey	https://doi.org/10.3390/su141912414
+80	Henseler (2014)	9	2014	A new criterion for assessing discriminant validity in variance-based structural equation modeling	https://doi.org/10.1007/s11747-014-0403-8
+81	Pesaran (2001)	9	2001	Bounds testing approaches to the analysis of level relationships	https://doi.org/10.1002/jae.616
+82	Zhang (2021)	9	2021	The contribution of Fintech to sustainable development in the digital age: Ant forest and land restoration in China	https://doi.org/10.1016/j.landusepol.2021.105306
+83	Wang (2016)	9	2016	The Role of Green Finance in Environmental Protection: Two Aspects of Market Mechanism and Policies	https://doi.org/10.1016/j.egypro.2016.12.053
+84	Zhang (2019)	9	2019	The Effect of Green Finance on Energy Sustainable Development: A Case Study in China	https://doi.org/10.1080/1540496x.2019.1695595
+85	Hidayat-ur-Rehman (2024)	9	2024	The impacts of Fintech adoption, green finance and competitiveness on banks’ sustainable performance: digital transformation as moderator	https://doi.org/10.1108/apjba-10-2023-0497
+86	Chudík (2015)	9	2015	Common correlated effects estimation of heterogeneous dynamic panel data models with weakly exogenous regressors	https://doi.org/10.1016/j.jeconom.2015.03.007
+87	Liu (2023)	9	2023	Fintech development and green innovation: Evidence from China	https://doi.org/10.1016/j.enpol.2023.113827
+88	Lee (2021)	9	2021	Does fintech innovation improve bank efficiency? Evidence from China’s banking industry	https://doi.org/10.1016/j.iref.2021.03.009
+89	Cen (2018)	9	2018	Fintech, Green Finance and Sustainable Development	https://doi.org/10.2991/meeah-18.2018.40
+90	Zhou (2024)	9	2024	The role of green finance, environmental benefits, fintech development, and natural resource management in advancing sustainability	https://doi.org/10.1016/j.resourpol.2024.105013
+91	Ding (2022)	8	2022	Fintech, financial constraints and innovation: Evidence from China	https://doi.org/10.1016/j.jcorpfin.2022.102194
+92	Eck (2009)	8	2009	Software survey: VOSviewer, a computer program for bibliometric mapping	https://doi.org/10.1007/s11192-009-0146-3
+93	Zakari (2021)	8	2021	The Introduction of Green Finance: A Curse or a Benefit to Environmental Sustainability?	https://doi.org/10.46557/001c.29977
+94	Huang (2022)	8	2022	Impacts of green finance on green innovation: A spatial and nonlinear perspective	https://doi.org/10.1016/j.jclepro.2022.132548
+95	Wang (2024)	8	2024	The impact of Fintech on corporate carbon emissions: Towards green and sustainable development	https://doi.org/10.1002/bse.3778
+96	Siddik (2023)	8	2023	Do fintech adoption and financial literacy improve corporate sustainability performance? The mediating role of access to finance	https://doi.org/10.1016/j.jclepro.2023.137658
+97	Feng (2022)	8	2022	Environmental decentralization, digital finance and green technology innovation	https://doi.org/10.1016/j.strueco.2022.02.008
+98	Zhang (2022)	8	2022	Does green finance investment and technological innovation improve renewable energy efficiency and sustainable development goals	https://doi.org/10.1016/j.renene.2022.04.161
+99	Zhong-qing (2019)	8	2019	Adoption Intention of Fintech Services for Bank Users: An Empirical Examination with an Extended Technology Acceptance Model	https://doi.org/10.3390/sym11030340
+100	Muhammad (2022)	8	2022	The fourth industrial revolution and environmental efficiency: The role of fintech industry	https://doi.org/10.1016/j.jclepro.2022.135196
+101	Bakry (2023)	8	2023	Is green finance really “green”? Examining the long-run relationship between green finance, renewable energy and environmental performance in developing countries	https://doi.org/10.1016/j.renene.2023.03.020
+102	Pizzi (2020)	8	2020	Fintech and SMEs sustainable business models: Reflections and considerations for a circular economy	https://doi.org/10.1016/j.jclepro.2020.125217
+103	Zheng (2022)	8	2022	Do Corporate Social Responsibility Practices and Green Finance Dimensions Determine Environmental Performance? An Empirical Study on Bangladeshi Banking Institutions	https://doi.org/10.3389/fenvs.2022.890096
+104	Khan (2021)	8	2021	Does green finance really deliver what is expected? An empirical perspective	https://doi.org/10.1016/j.bir.2021.07.006
+105	Teng (2023)	8	2023	Fintech and energy efficiency: Evidence from OECD countries	https://doi.org/10.1016/j.resourpol.2023.103550
+106	Yan (2021)	8	2021	Factors influencing the adoption intention of using mobile financial service during the COVID-19 pandemic: the role of FinTech	https://doi.org/10.1007/s11356-021-17437-y
+107	Wang (2022)	8	2022	Environmental performance, green finance and green innovation: What's the long-run relationships among variables?	https://doi.org/10.1016/j.eneco.2022.106004
+108	Chen (2022)	8	2022	Green technological innovation, green finance, and financial development and their role in green total factor productivity: Empirical insights from China	https://doi.org/10.1016/j.jclepro.2022.135131
+109	Visconti (2020)	8	2020	Sustainability in FinTechs: An Explanation through Business Model Scalability and Market Valuation	https://doi.org/10.3390/su122410316
+110	Yu (2021)	8	2021	Demand for green finance: Resolving financing constraints on green innovation in China	https://doi.org/10.1016/j.enpol.2021.112255
+111	Mamun (2022)	8	2022	Green finance and decarbonization: Evidence from around the world	https://doi.org/10.1016/j.frl.2022.102807
+112	Lee (2023)	7	2023	Does green finance promote renewable energy? Evidence from China	https://doi.org/10.1016/j.resourpol.2023.103439
+113	Teng (2023)	7	2023	The impact of fintech on carbon efficiency: Evidence from Chinese cities	https://doi.org/10.1016/j.jclepro.2023.138984
+114	Li (2023)	7	2023	The role of Fintech, natural resources, and renewable energy consumption in Shaping environmental sustainability in China: A NARDL perspective	https://doi.org/10.1016/j.resourpol.2023.104464
+115	Awawdeh (2021)	7	2021	Role of green financing and corporate social responsibility (CSR) in technological innovation and corporate environmental performance: a COVID-19 perspective	https://doi.org/10.1108/cfri-03-2021-0048
+116	Ashta (2023)	7	2023	How Can Fintech Companies Get Involved in the Environment?	https://doi.org/10.3390/su151310675
+117	Lu (2023)	7	2023	Asymmetric effects of renewable energy, fintech development, natural resources, and environmental regulations on the climate change in the post-covid era	https://doi.org/10.1016/j.resourpol.2023.103902
+118	Danladi (2023)	7	2023	Attaining Sustainable Development Goals through Financial Inclusion: Exploring Collaborative Approaches to Fintech Adoption in Developing Economies	https://doi.org/10.3390/su151713039
+119	Yin (2021)	7	2021	An empirical analysis of the coupling and coordinative development of China's green finance and economic growth	https://doi.org/10.1016/j.resourpol.2021.102476
+120	Shi (2022)	7	2022	Does green financial policy affect debt-financing cost of heavy-polluting enterprises? An empirical evidence based on Chinese pilot zones for green finance reform and innovations	https://doi.org/10.1016/j.techfore.2022.121678
+121	Du (2022)	7	2022	Can FinTech improve corporate environmental, social, and governance performance?—A study based on the dual path of internal financing constraints and external fiscal incentives	https://doi.org/10.3389/fenvs.2022.1061454
+122	Hasan (2024)	7	2024	FinTech and sustainable development: A systematic thematic analysis using human- and machine-generated processing	https://doi.org/10.1016/j.irfa.2024.103473
+123	Xia (2024)	7	2024	Modelling the asymmetric impact of fintech, natural resources, and environmental regulations on ecological footprint in G7 countries	https://doi.org/10.1016/j.resourpol.2023.104552
+124	Arellano (1991)	7	1991	Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations	https://doi.org/10.2307/2297968
+125	Hu (2021)	7	2021	Can the green credit policy stimulate green innovation in heavily polluting enterprises? Evidence from a quasi-natural experiment in China	https://doi.org/10.1016/j.eneco.2021.105134
+126	Hafner (2019)	7	2019	Closing the green finance gap – A systems perspective	https://doi.org/10.1016/j.eist.2019.11.007
+127	Wei (2023)	7	2023	Uncovering the impact of Fintech, Natural Resources, Green Finance and Green Growth on Environment sustainability in BRICS: An MMQR analysis	https://doi.org/10.1016/j.resourpol.2023.104515
+128	Abbas (2023)	7	2023	Investment in renewable energy and electricity output: Role of green finance, environmental tax, and geopolitical risk: Empirical evidence from China	https://doi.org/10.1016/j.energy.2023.126683
+129	Dar (2024)	7	2024	Investigating the role of Fintech innovations and green finance toward sustainable economic development: a bibliometric analysis	https://doi.org/10.1108/imefm-01-2024-0018
+130	Luo (2021)	7	2021	Does fintech innovation promote enterprise transformation? Evidence from China	https://doi.org/10.1016/j.techsoc.2021.101821
+131	He (2019)	7	2019	Can green financial development promote renewable energy investment efficiency? A consideration of bank credit	https://doi.org/10.1016/j.renene.2019.05.059
+132	Yang (2022)	6	2022	FinTech adoption and financial inclusion: Evidence from household consumption in China	https://doi.org/10.1016/j.jbankfin.2022.106668
+133	Zhang (2024)	6	2024	Fintech, natural resource rents, renewable energy consumption and environmental quality: A perspective of green economic recovery from BRICS economies	https://doi.org/10.1016/j.resourpol.2023.104604
+134	Lee (2020)	6	2020	Green Finance and Sustainable Development Goals: The Case of China	https://doi.org/10.13106/jafeb.2020.vol7.no7.577
+135	Xiong (2022)	6	2022	RETRACTED ARTICLE: Influence analysis of green finance development impact on carbon emissions: an exploratory study based on fsQCA	https://doi.org/10.1007/s11356-021-18351-z
+136	Kanga (2021)	6	2021	The diffusion of fintech, financial inclusion and income per capita	https://doi.org/10.1080/1351847x.2021.1945646
+137	Puschmann (2017)	6	2017	Fintech	https://doi.org/10.1007/s12599-017-0464-6
+138	Barroso (2022)	6	2022	Digital transformation and the emergence of the Fintech sector: Systematic literature review	https://doi.org/10.1016/j.digbus.2022.100028
+139	Geetha (2023)	6	2023	Is green FinTech reshaping the finance sphere? Unravelling through a systematic literature review	https://doi.org/10.1007/s11356-023-31382-y
+140	Xu (2022)	6	2022	How environmental regulations affect the development of green finance: Recent evidence from polluting firms in China	https://doi.org/10.1016/j.renene.2022.03.020
+141	Rizwan (2022)	6	2022	Fintech Attaining Sustainable Development: An Investor Perspective of Crowdfunding Platforms in a Developing Country	https://doi.org/10.3390/su14127114
+142	Le (2020)	6	2020	Time and frequency domain connectedness and spill-over among fintech, green bonds and cryptocurrencies in the age of the fourth industrial revolution	https://doi.org/10.1016/j.techfore.2020.120382
+143	Boot (2020)	6	2020	Fintech: what’s old, what’s new?	https://doi.org/10.1016/j.jfs.2020.100836
+144	Bhutta (2021)	6	2021	Green bonds for sustainable development: Review of literature on development and impact of green bonds	https://doi.org/10.1016/j.techfore.2021.121378
+145	Dumitrescu (2012)	6	2012	Testing for Granger non-causality in heterogeneous panels	https://doi.org/10.1016/j.econmod.2012.02.014
+146	Pedroni (2004)	6	2004	PANEL COINTEGRATION: ASYMPTOTIC AND FINITE SAMPLE PROPERTIES OF POOLED TIME SERIES TESTS WITH AN APPLICATION TO THE PPP HYPOTHESIS	https://doi.org/10.1017/s0266466604203073
+147	Ullah (2023)	6	2023	Impact of FinTech, governance and environmental taxes on energy transition: Pre-post COVID-19 analysis of belt and road initiative countries	https://doi.org/10.1016/j.resourpol.2023.103734
+148	Umar (2023)	6	2023	Do green finance and innovation matter for environmental protection? A case of OECD economies	https://doi.org/10.1016/j.eneco.2023.106560
+149	Indriastuti (2021)	6	2021	The role of green investment and corporate social responsibility investment on sustainable performance	https://doi.org/10.1080/23311975.2021.1960120
+150	Khan (2020)	6	2020	Consumption-based carbon emissions and International trade in G7 countries: The role of Environmental innovation and Renewable energy	https://doi.org/10.1016/j.scitotenv.2020.138945
+151	Udeagha (2022)	6	2022	Dynamic ARDL Simulations Effects of Fiscal Decentralization, Green Technological Innovation, Trade Openness, and Institutional Quality on Environmental Sustainability: Evidence from South Africa	https://doi.org/10.3390/su141610268
+152	Liu (2022)	6	2022	Green innovation effect of pilot zones for green finance reform: Evidence of quasi natural experiment	https://doi.org/10.1016/j.techfore.2022.122079
+153	Udeagha (2023)	6	2023	Exploring the moderating role of financial development in environmental Kuznets curve for South Africa: fresh evidence from the novel dynamic ARDL simulations approach	https://doi.org/10.1186/s40854-022-00396-9
+154	Khoury (2023)	6	2023	Spillover analysis across FinTech, ESG, and renewable energy indices before and during the Russia–Ukraine war: International evidence	https://doi.org/10.1111/jifm.12179
+155	He (2020)	6	2020	Research on the Impact of Green Finance and Fintech in Smart City	https://doi.org/10.1155/2020/6673386
+156	Chen (2018)	6	2018	How Valuable Is FinTech Innovation?	https://doi.org/10.1093/rfs/hhy130
+157	Wang (2021)	6	2021	Financial inclusion and green economic efficiency: evidence from China	https://doi.org/10.1080/09640568.2021.1881459
+158	Nassiry (2019)	6	2019	The Role of Fintech in Unlocking Green Finance	https://doi.org/10.1007/978-981-13-0227-5_27
+159	Ashta (2021)	6	2021	Artificial intelligence and fintech: An overview of opportunities and risks for banking, investments, and microfinance	https://doi.org/10.1002/jsc.2404
+160	Dickey (1981)	6	1981	Likelihood Ratio Statistics for Autoregressive Time Series with a Unit Root	https://doi.org/10.2307/1912517
+161	Yadav (2024)	6	2024	Nexus between fintech, green finance and natural resources management: Transition of BRICS nation industries from resource curse to resource blessed sustainable economies	https://doi.org/10.1016/j.resourpol.2024.104903
+162	Shan (2023)	6	2023	Fintech innovation for sustainable environment: Understanding the role of natural resources and human capital in BRICS using MMQR	https://doi.org/10.1016/j.resourpol.2023.104468
+163	Siddik (2023)	6	2023	The role of Fintech in circular economy practices to improve sustainability performance: a two-staged SEM-ANN approach	https://doi.org/10.1007/s11356-023-25576-7
+164	Blundell (1998)	6	1998	Initial conditions and moment restrictions in dynamic panel data models	https://doi.org/10.1016/s0304-4076(98)00009-8
+165	Xu (2024)	6	2024	Does Fintech Foster the Development of Green Finance?	https://doi.org/10.1080/1540496x.2024.2430500
+166	Hu (2024)	6	2024	Exploring FinTech, green finance, and ESG performance across corporate life-cycles	https://doi.org/10.1016/j.irfa.2024.103871
+167	Tawiah (2021)	6	2021	Determinants of green growth in developed and developing countries	https://doi.org/10.1007/s11356-021-13429-0
+168	Jin (2017)	6	2017	Assessment of Chinese green funds: Performance and industry allocation	https://doi.org/10.1016/j.jclepro.2017.09.211
+169	Ma (2023)	6	2023	Combining the role of green finance and environmental sustainability on green economic growth: Evidence from G-20 economies	https://doi.org/10.1016/j.renene.2023.02.046
+170	Diebold (2011)	6	2011	Better to give than to receive: Predictive directional measurement of volatility spillovers	https://doi.org/10.1016/j.ijforecast.2011.02.006
+171	Metawa (2022)	6	2022	Analyzing the nexus of green economy, clean and financial technology	https://doi.org/10.1016/j.eap.2022.08.023
+172	Ding (2024)	6	2024	How does fintech prompt corporations toward ESG sustainable development? Evidence from China	https://doi.org/10.1016/j.eneco.2024.107387
+173	Shin (2019)	6	2019	Feasibility of the Fintech Industry as an Innovation Platform for Sustainable Economic Growth in Korea	https://doi.org/10.3390/su11195351
+174	Hammadi (2019)	6	2019	FinTech and Sustainability: A Mini-Review	https://doi.org/10.2139/ssrn.3500873
+175	Shahbaz (2018)	5	2018	Environmental degradation in France: The effects of FDI, financial development, and energy innovations	https://doi.org/10.1016/j.eneco.2018.07.020
+176	Yu (2020)	5	2020	Research on the use of digital finance and the adoption of green control techniques by family farms in China	https://doi.org/10.1016/j.techsoc.2020.101323
+177	Butu (2021)	5	2021	Leveraging community based organizations and fintech to improve small-scale renewable energy financing in sub-Saharan Africa	https://doi.org/10.1016/j.erss.2021.101949
+178	Tang (2024)	5	2024	Exploring the role of Fintech, Green Finance and Natural Resources towards Environmental Sustainability: A study on ASEAN economies	https://doi.org/10.1016/j.resourpol.2024.105115
+179	Kashif (2024)	5	2024	Towards a greener future: The impact of financial technology (FinTech) and climate finance on ecological sustainability	https://doi.org/10.1016/j.jenvman.2024.122876
+180	Wang (2019)	5	2019	The Market Reaction to Green Bond Issuance: Evidence from China	https://doi.org/10.1016/j.pacfin.2020.101294
+181	Madaleno (2022)	5	2022	A step forward on sustainability: The nexus of environmental responsibility, green technology, clean energy and green finance	https://doi.org/10.1016/j.eneco.2022.105945
+182	Bai (2022)	5	2022	Research on the impact of green finance on carbon emissions: evidence from China	https://doi.org/10.1080/1331677x.2022.2054455
+183	Zhang (2022)	5	2022	Does green finance counteract the climate change mitigation: Asymmetric effect of renewable energy investment and R&D	https://doi.org/10.1016/j.eneco.2022.106183
+184	Kumar (2023)	5	2023	Green finance in circular economy: a literature review	https://doi.org/10.1007/s10668-023-03361-3
+185	Demirgüç‐Kunt (2018)	5	2018	The Global Findex Database 2017: Measuring Financial Inclusion and the Fintech Revolution	https://doi.org/10.1596/978-1-4648-1259-0
+186	Wen (2023)	5	2023	Can Fintech Lead to the Collaborative Reduction in Pollution Discharges and Carbon Emissions?	https://doi.org/10.3390/su151511627
+187	Hommel (2020)	5	2020	Digital Entrepreneurship in Finance: Fintechs and Funding Decision Criteria	https://doi.org/10.3390/su12198035
+188	Davis (1989)	5	1989	Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology	https://doi.org/10.2307/249008
+189	Berrou (2019)	5	2019	An Overview of Green Finance	https://doi.org/10.1007/978-3-030-22510-0_1
+190	Pesaran (2004)	5	2004	General Diagnostic Tests for Cross Section Dependence in Panels	https://doi.org/10.2139/ssrn.572504
+191	Chen (2021)	5	2021	Can Green Finance Development Reduce Carbon Emissions? Empirical Evidence from 30 Chinese Provinces	https://doi.org/10.3390/su132112137
+192	Arfaoui (2022)	5	2022	IMPACT OF COVID-19 ON VOLATILITY SPILLOVERS ACROSS INTERNATIONAL MARKETS: EVIDENCE FROM VAR ASYMMETRIC BEKK GARCH MODEL	https://doi.org/10.1142/s201049522250004x
+193	Sharif (2022)	5	2022	Nexus between green technology innovation, green financing, and CO 2 emissions in the G7 countries: The moderating role of social globalisation	https://doi.org/10.1002/sd.2360
+194	Canay (2011)	5	2011	A simple approach to quantile regression for panel data	https://doi.org/10.1111/j.1368-423x.2011.00349.x
+195	Leong (2017)	5	2017	Nurturing a FinTech ecosystem: The case of a youth microloan startup in China	https://doi.org/10.1016/j.ijinfomgt.2016.11.006
+196	Cho (2018)	5	2018	A novel decomposition analysis of green patent applications for the evaluation of R&D efforts to reduce CO2 emissions from fossil fuel energy consumption	https://doi.org/10.1016/j.jclepro.2018.05.060
+197	Nawaz (2020)	5	2020	Nexus between green finance and climate change mitigation in N-11 and BRICS countries: empirical estimation through difference in differences (DID) approach	https://doi.org/10.1007/s11356-020-10920-y
+198	Kraus (2020)	5	2020	Corporate social responsibility and environmental performance: The mediating role of environmental strategy and green innovation	https://doi.org/10.1016/j.techfore.2020.120262
+199	Wang (2021)	5	2021	The Dual Impacts of Green Credit on Economy and Environment: Evidence from China	https://doi.org/10.3390/su13084574
+200	Yao (2021)	5	2021	Green credit policy and firm performance: What we learn from China	https://doi.org/10.1016/j.eneco.2021.105415
+201	Peng (2021)	5	2021	Does the green credit policy affect the scale of corporate debt financing? Evidence from listed companies in heavy pollution industries in China	https://doi.org/10.1007/s11356-021-15587-7
+202	Khan (2019)	5	2019	Moving toward sustainable development: The relationship between water productivity, natural resource rent, international trade, and carbon dioxide emissions	https://doi.org/10.1002/sd.2007
+203	Udeagha (2022)	5	2022	Striving towards environmental sustainability in the BRICS economies: the combined influence of fiscal decentralization and environmental innovation	https://doi.org/10.1080/13504509.2022.2123411
+204	Hair (2018)	5	2018	When to use and how to report the results of PLS-SEM	https://doi.org/10.1108/ebr-11-2018-0203
+205	Cao (2021)	5	2021	Digital finance, green technological innovation and energy-environmental performance: Evidence from China's regional economies	https://doi.org/10.1016/j.jclepro.2021.129458
+206	Merello (2021)	5	2021	Is the sustainability profile of FinTech companies a key driver of their value?	https://doi.org/10.1016/j.techfore.2021.121290
+207	Anon (2019)	5	2019	The Rise of Green Finance in Europe	https://doi.org/10.1007/978-3-030-22510-0
+208	Župič (2014)	5	2014	Bibliometric Methods in Management and Organization	https://doi.org/10.1177/1094428114562629
+209	Li (2023)	5	2023	Navigating the path to environmental sustainability: Exploring the role of fintech, natural resources and green energy in Belt and Road countries	https://doi.org/10.1016/j.resourpol.2023.104485
+210	Jaiwant (2023)	5	2023	Green Finance and Fintech: Toward a More Sustainable Financial System	https://doi.org/10.1007/978-3-031-29031-2_12
+211	Li (2019)	5	2019	The impact of digital finance on household consumption: Evidence from China	https://doi.org/10.1016/j.econmod.2019.09.027
+212	Aziz (2021)	5	2021	Rethinking digital financial inclusion: Evidence from Bangladesh	https://doi.org/10.1016/j.techsoc.2020.101509
+213	Ying (2022)	5	2022	Digital financial inclusion: A gateway to sustainable development	https://doi.org/10.1016/j.heliyon.2022.e09766
+214	Afjal (2023)	5	2023	Bridging the financial divide: a bibliometric analysis on the role of digital financial services within FinTech in enhancing financial inclusion and economic development	https://doi.org/10.1057/s41599-023-02086-y
+215	Hair (2021)	5	2021	Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R	https://doi.org/10.1007/978-3-030-80519-7
+216	Dıcuonzo (2023)	5	2023	ESG, governance variables and Fintech: An empirical analysis	https://doi.org/10.1016/j.ribaf.2023.102205
+217	Amaliah (2024)	5	2024	Does digital financial inclusion forecast sustainable economic growth? Evidence from an emerging economy	https://doi.org/10.1016/j.joitmc.2024.100262
+218	Alsedrah (2024)	5	2024	Fintech and green finance revolutionizing carbon emission reduction through green energy projects in mineral-rich countries	https://doi.org/10.1016/j.resourpol.2024.105064
+219	Miled (2025)	5	2025	Nexus between fintech, green finance natural resources, economic growth and environment sustainability: evidence from BRICS countries	https://doi.org/10.1186/s43093-025-00469-y
+220	Arner (2015)	5	2015	The Evolution of Fintech: A New Post-Crisis Paradigm?	https://doi.org/10.2139/ssrn.2676553
+221	Tian (2023)	5	2023	Does fintech innovation and green transformational leadership improve green innovation and corporate environmental performance? A hybrid SEM–ANN approach	https://doi.org/10.1016/j.jik.2023.100396
+222	Liu (2023)	5	2023	RETRACTED: Exploring the Nexus between Fintech, natural resources, urbanization, and environment sustainability in China: A QARDL study	https://doi.org/10.1016/j.resourpol.2023.104557
+223	Pesaran (2020)	5	2020	General diagnostic tests for cross-sectional dependence in panels	https://doi.org/10.1007/s00181-020-01875-7
+224	Xia (2023)	5	2023	The response of green finance toward the sustainable environment: the role of renewable energy development and institutional quality	https://doi.org/10.1007/s11356-023-26430-6
+225	Toumi (2023)	5	2023	The role of Fintech firms’ sustainability during the COVID-19 period	https://doi.org/10.1007/s11356-023-26530-3
+226	Caldara (2022)	5	2022	Measuring Geopolitical Risk	https://doi.org/10.1257/aer.20191823
+227	Tiwari (2023)	5	2023	Financial technology stocks, green financial assets, and energy markets: A quantile causality and dependence analysis	https://doi.org/10.1016/j.eneco.2022.106498
+228	Ahmad (2024)	5	2024	Fintech, natural resources management, green energy transition, and ecological footprint: Empirical insights from EU countries	https://doi.org/10.1016/j.resourpol.2024.104972
+229	Herring (2007)	5	2007	Technological innovation, energy efficient design and the rebound effect	https://doi.org/10.1016/j.technovation.2006.11.004
+230	Hao (2019)	5	2019	How does ecology of finance affect financial constraints? Empirical evidence from Chinese listed energy- and pollution-intensive companies	https://doi.org/10.1016/j.jclepro.2019.119061
+231	Yang (2020)	5	2020	Can the new energy demonstration city policy reduce environmental pollution? Evidence from a quasi-natural experiment in China	https://doi.org/10.1016/j.jclepro.2020.125015
+232	Yang (2020)	5	2020	Does the development of the internet contribute to air pollution control in China? Mechanism discussion and empirical test	https://doi.org/10.1016/j.strueco.2020.12.001
+233	Song (2011)	5	2011	Growing Like China	https://doi.org/10.1257/aer.101.1.196
+234	Zhang (2021)	5	2021	Public spending and green economic growth in BRI region: Mediating role of green finance	https://doi.org/10.1016/j.enpol.2021.112256
+235	Cao (2021)	5	2021	Impact of financial development and technological innovation on the volatility of green growth—evidence from China	https://doi.org/10.1007/s11356-021-13828-3
+236	Baron (1986)	5	1986	The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations.	https://doi.org/10.1037//0022-3514.51.6.1173
+237	Gu (2020)	5	2020	Entrepreneurship and high-quality economic development: based on the triple bottom line of sustainable development	https://doi.org/10.1007/s11365-020-00684-9
+238	Zhao (2022)	5	2022	Role of natural resources utilization efficiency in achieving green economic recovery: Evidence from BRICS countries	https://doi.org/10.1016/j.resourpol.2022.103164
+239	Dunbar (2024)	5	2024	FinTech for environmental sustainability: Promises and pitfalls	https://doi.org/10.1016/j.oneear.2023.12.012
+240	Offiong (2025)	5	2025	FinTech Innovations for Sustainable Development: A Comprehensive Literature Review and Future Directions	https://doi.org/10.1002/sd.70068
+241	Ozili (2022)	5	2022	Green finance research around the world: a review of literature	https://doi.org/10.1504/ijge.2022.125554
+242	Liu (2023)	5	2023	FinTech and Green Credit Development—Evidence from China	https://doi.org/10.3390/su15075903
+243	Sadiq (2023)	5	2023	Role of fintech, green finance, and natural resource rents in sustainable climate change in China. Mediating role of environmental regulations and government interventions in the pre-post COVID eras	https://doi.org/10.1016/j.resourpol.2023.104494
+244	Sun (2022)	5	2022	The impact of green finance on China's regional energy consumption structure based on system GMM	https://doi.org/10.1016/j.resourpol.2022.102588
+245	Diebold (2014)	5	2014	On the network topology of variance decompositions: Measuring the connectedness of financial firms	https://doi.org/10.1016/j.jeconom.2014.04.012
+246	Jiao (2020)	5	2020	Should the fourth industrial revolution be widespread or confined geographically? A country-level analysis of fintech economies	https://doi.org/10.1016/j.techfore.2020.120442
+247	Zia (2024)	5	2024	Analyzing the impact of fintech industry and green financing on energy poverty in the European countries	https://doi.org/10.1016/j.heliyon.2024.e27532
+248	Allen (2022)	5	2022	Fintech, Cryptocurrencies, and CBDC: Financial Structural Transformation in China	https://doi.org/10.1016/j.jimonfin.2022.102625
+249	AboAlsamh (2023)	5	2023	Pioneering Perception of Green Fintech in Promoting Sustainable Digital Services Application within Smart Cities	https://doi.org/10.3390/su151411440
+250	Park (2020)	5	2020	Transition towards green banking: role of financial regulators and financial institutions	https://doi.org/10.1186/s41180-020-00034-3
+251	Song (2024)	5	2024	Understanding the relationship between Fintech, Natural Resources, Green Finance, and Environmental Sustainability in China: A BARDL approach	https://doi.org/10.1016/j.resourpol.2023.104608
+252	Lagna (2021)	5	2021	Making the world a better place with fintech research	https://doi.org/10.1111/isj.12333
+253	Li (2022)	5	2022	Does green finance development goals affects renewable energy in China	https://doi.org/10.1016/j.renene.2022.12.066
+254	Yu (2023)	5	2023	Can green finance improve the financial performance of green enterprises in China?	https://doi.org/10.1016/j.iref.2023.07.060

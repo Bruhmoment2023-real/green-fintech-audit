@@ -1,0 +1,169 @@
+doi,scopus_year,scopus_source,scopus_type,scopus_contaminated,openalex_record_exists,openalex_id,openalex_type,openalex_year,openalex_has_abstract,openalex_string_match,in_openalex_corpus,why_missing_from_openalex_corpus,crossref_record_exists,crossref_has_abstract,crossref_type,crossref_string_match,scopus_cited_by,openalex_cited_by,crossref_cited_by
+10.1142/s0219877025400085,2026,International Journal of Innovation and Technology Management,Article,False,True,W7114797304,article,2025,True,True,True,,True,True,journal-article,True,0,0,0
+10.3390/su16229989,2024,Sustainability (Switzerland),Article,False,True,W4404535877,article,2024,True,True,True,,True,True,journal-article,True,7,11,12
+10.1504/ijbir.2025.149938,2025,International Journal of Business Innovation and Research,Article,False,True,W4416358125,article,2025,True,True,True,,True,False,journal-article,False,0,2,2
+10.1016/j.resourpol.2024.105276,2024,Resources Policy,Article,False,True,W4401836847,article,2024,False,True,True,,True,False,journal-article,True,3,6,5
+10.1080/13504851.2023.2244227,2025,Applied Economics Letters,Article,False,True,W4385634543,article,2023,True,True,True,,True,False,journal-article,True,6,14,10
+10.1002/sd.3502,2025,Sustainable Development,Article,False,True,W4409956938,article,2025,True,True,True,,True,True,journal-article,True,2,6,6
+10.3390/jrfm17100472,2024,Journal of Risk and Financial Management,Review,False,True,W4403602101,article,2024,True,True,True,,True,True,journal-article,True,10,30,30
+10.1108/imefm-01-2024-0018,2024,International Journal of Islamic and Middle Eastern Finance and Management,Review,False,True,W4401991480,article,2024,True,True,True,,True,True,journal-article,True,18,34,30
+10.1016/j.digbus.2025.100113,2025,Digital Business,Article,False,True,W4407766388,article,2025,True,True,True,,True,False,journal-article,False,7,14,13
+10.1057/s41599-025-05064-8,2025,Humanities and Social Sciences Communications,Article,False,True,W4412360379,article,2025,True,True,True,,True,False,journal-article,True,6,18,18
+10.34109/ijefs.202416116,2024,International Journal of Economics and Finance Studies,Article,False,False,,,,False,False,False,no OpenAlex record for this DOI,False,False,,False,2,,
+10.1007/s43621-025-02007-w,2025,Discover Sustainability,Article,False,True,W4415618028,article,2025,True,True,True,,True,False,journal-article,False,0,12,12
+10.1016/j.resourpol.2024.105052,2024,Resources Policy,Article,False,True,W4398232045,article,2024,False,True,True,,True,False,journal-article,True,25,30,29
+10.1002/bse.70498,2026,Business Strategy and the Environment,Article,False,True,W7118782873,article,2026,True,True,True,,True,True,journal-article,True,0,3,3
+10.1108/dts-01-2025-0018,2025,Digital Transformation and Society,Review,False,True,W4414551123,review,2025,True,True,True,,True,True,journal-article,True,0,8,9
+10.1016/j.frl.2023.104127,2023,Finance Research Letters,Article,False,True,W4381053205,article,2023,False,True,True,,True,False,journal-article,True,96,111,105
+10.3389/fenrg.2023.1177927,2023,Frontiers in Energy Research,Article,False,True,W4379472479,article,2023,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,22,33,32
+10.3390/su152215925,2023,Sustainability (Switzerland),Article,False,True,W4388654978,article,2023,True,True,True,,True,True,journal-article,True,7,10,8
+10.3390/su17052000,2025,Sustainability (Switzerland),Article,False,True,W4407973678,article,2025,True,True,True,,True,True,journal-article,True,7,17,17
+10.1016/j.qref.2025.102035,2025,Quarterly Review of Economics and Finance,Article,False,True,W4412731089,article,2025,False,True,True,,True,False,journal-article,True,0,6,7
+10.1057/s41599-023-02492-2,2024,Humanities and Social Sciences Communications,Article,False,True,W4390974690,article,2024,True,True,True,,True,True,journal-article,True,19,19,15
+10.1016/j.ribaf.2024.102682,2025,Research in International Business and Finance,Review,False,True,W4404878795,article,2024,True,True,True,,True,False,journal-article,False,15,26,22
+10.3390/su16135757,2024,Sustainability (Switzerland) ,Article,False,True,W4400352122,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,7,10,10
+10.3390/su17094109,2025,Sustainability (Switzerland),Article,False,True,W4410000831,article,2025,True,True,True,,True,True,journal-article,True,1,4,4
+10.1016/j.resourpol.2024.104977,2024,Resources Policy,Article,False,True,W4394844715,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,14,19,17
+10.1108/jal-02-2025-0094,2025,Journal of Accounting Literature,Review,False,True,W4409810852,article,2025,True,True,True,,True,True,journal-article,True,5,8,8
+10.1002/sd.2618,2023,Sustainable Development,Article,False,True,W4378906464,article,2023,True,True,True,,True,True,journal-article,True,109,150,148
+10.1007/s43621-025-00823-8,2025,Discover Sustainability,Review,False,True,W4407142912,article,2025,True,True,True,,True,True,journal-article,True,5,14,14
+10.1016/j.eap.2023.10.019,2023,Economic Analysis and Policy,Article,False,True,W4387860294,article,2023,True,True,True,,True,False,journal-article,True,44,81,72
+10.1108/s2754-58652025000004a009,2025,Review of Management Literature,Article,True,True,W7134283970,paratext,2025,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,other,False,0,0,0
+10.1108/978-1-83708-752-5,2025,Review of Management Literature,Review,True,True,W4413163587,book,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,edited-book,False,0,0,0
+10.1016/j.frl.2025.108441,2025,Finance Research Letters,Article,False,True,W4414104884,article,2025,False,True,True,,True,False,journal-article,True,0,5,6
+10.1016/j.resourpol.2024.104903,2024,Resources Policy,Article,False,True,W4393032013,article,2024,True,True,True,,True,False,journal-article,True,59,74,69
+10.4335/19.3.503-519(2021),2021,Lex Localis,Article,False,True,W4205605096,article,2021,True,True,True,,True,True,journal-article,True,6,6,6
+10.1108/s2754-58652025000004b001,2025,Review of Management Literature,Review,True,True,W4413163488,review,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,1,1
+10.1016/j.wds.2023.100096,2023,World Development Sustainability,Article,False,True,W4386002457,article,2023,True,True,True,,True,False,journal-article,True,204,265,231
+10.1016/j.frl.2025.107912,2025,Finance Research Letters,Article,False,True,W4412487663,article,2025,False,True,True,,True,False,journal-article,True,7,9,10
+10.57159/jcmm.3.5.24168,2024,"Journal of Computers, Mechanical and Management",Article,False,True,W4405958083,article,2024,True,True,True,,True,True,journal-article,True,8,7,7
+10.55643/fcaptp.3.56.2024.4399,2024,Financial and Credit Activity: Problems of Theory and Practice,Article,False,True,W4400173364,article,2024,True,True,True,,True,True,journal-article,True,4,9,9
+10.1504/ijge.2024.141407,2024,International Journal of Green Economics,Article,False,True,W4402488485,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,False,journal-article,False,3,1,1
+10.1016/j.resourpol.2023.104468,2024,Resources Policy,Article,False,True,W4389750030,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,33,44,44
+10.1016/j.cosust.2026.101606,2026,Current Opinion in Environmental Sustainability,Review,False,True,W7128609951,review,2026,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,0,4,4
+10.1002/sd.70645,2026,Sustainable Development,Article,False,True,W7123355729,article,2026,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,0,1,1
+10.1007/s13412-023-00839-4,2023,Journal of Environmental Studies and Sciences,Article,False,True,W4368368728,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,8,11,10
+10.24294/jipd.v8i7.4979,2024,"Journal of Infrastructure, Policy and Development",Article,False,True,W4400894970,article,2024,True,True,True,,True,True,journal-article,True,11,22,23
+10.1016/j.resourpol.2024.104900,2024,Resources Policy,Article,False,True,W4392913534,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,11,14,13
+10.24294/jipd.v8i7.4668,2024,"Journal of Infrastructure, Policy and Development",Article,False,True,W4401275280,article,2024,True,True,True,,True,True,journal-article,True,12,21,22
+10.1007/s10644-023-09500-0,2023,Economic Change and Restructuring,Article,False,True,W4360801573,article,2023,False,True,True,,True,False,journal-article,True,64,85,80
+10.1002/ijfe.70065,2025,International Journal of Finance and Economics,Article,False,True,W4414522067,article,2025,True,True,True,,True,True,journal-article,True,2,6,5
+10.3390/admsci15040150,2025,Administrative Sciences,Article,False,True,W4409606716,article,2025,True,True,True,,True,True,journal-article,True,6,23,23
+10.1016/j.ribaf.2024.102691,2025,Research in International Business and Finance,Article,False,True,W4404910031,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,24,43,42
+10.1007/s10690-025-09528-4,2025,Asia-Pacific Financial Markets,Article,False,True,W4409348900,article,2025,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,4,4,3
+10.1016/j.resourpol.2024.105013,2024,Resources Policy,Article,False,True,W4395450859,article,2024,False,True,True,,True,False,journal-article,True,27,48,47
+10.1016/j.resourpol.2024.105102,2024,Resources Policy,Article,False,True,W4400064108,article,2024,False,True,True,,True,False,journal-article,True,14,17,16
+10.1504/ijbg.2022.123633,2022,International Journal of Business and Globalisation,Review,False,True,W4285226074,review,2022,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,False,journal-article,False,2,5,3
+10.3390/su172210294,2025,Sustainability (Switzerland),Article,False,True,W4416337465,article,2025,True,True,True,,True,True,journal-article,True,0,4,4
+10.1108/s2754-58652025000004a004,2025,Review of Management Literature,Review,True,True,W4413166771,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1007/s43621-025-02268-5,2026,Discover Sustainability,Review,False,True,W4417092653,article,2025,True,True,True,,True,True,journal-article,True,1,13,13
+10.32479/ijeep.17180,2024,International Journal of Energy Economics and Policy,Article,False,True,W4403986688,article,2024,True,True,True,,True,True,journal-article,True,9,15,16
+10.1016/j.resourpol.2024.104694,2024,Resources Policy,Article,False,True,W4391565363,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,6,7,7
+10.1016/j.resourpol.2024.105318,2024,Resources Policy,Article,False,True,W4402630958,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,11,18,18
+10.1016/j.resourpol.2024.105294,2024,Resources Policy,Article,False,True,W4402535771,article,2024,False,True,True,,True,False,journal-article,True,6,10,10
+10.1080/09640568.2023.2294689,2025,Journal of Environmental Planning and Management,Article,False,True,W4390589364,article,2024,True,True,True,,True,False,journal-article,False,5,8,8
+10.1016/j.intfin.2024.102009,2024,"Journal of International Financial Markets, Institutions and Money",Article,False,True,W4398190596,article,2024,True,True,True,,True,False,journal-article,False,12,19,18
+10.1016/j.resourpol.2024.105115,2024,Resources Policy,Article,False,True,W4399278551,article,2024,False,True,True,,True,False,journal-article,True,21,31,30
+10.1016/j.resourpol.2023.103648,2023,Resources Policy,Article,False,True,W4376274516,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,50,69,55
+10.1016/j.wds.2026.100277,2026,World Development Sustainability,Article,False,True,W7128765372,article,2026,True,True,True,,True,False,journal-article,False,0,4,4
+10.1016/j.resourpol.2023.104608,2024,Resources Policy,Article,False,True,W4391074181,article,2024,False,True,True,,True,False,journal-article,True,20,27,27
+10.1109/tem.2025.3564950,2025,IEEE Transactions on Engineering Management,Article,False,True,W4409883118,article,2025,True,True,True,,True,False,journal-article,False,3,5,5
+10.1016/j.resourpol.2024.105054,2024,Resources Policy,Article,False,True,W4396912012,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,6,10,10
+10.1108/s2754-58652025000004a006,2025,Review of Management Literature,Review,True,True,W4413166724,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1016/j.erss.2023.102997,2023,Energy Research and Social Science,Article,False,True,W4320929298,article,2023,True,True,True,,True,False,journal-article,False,36,45,41
+10.3390/jrfm18070379,2025,Journal of Risk and Financial Management,Article,False,True,W7087416425,article,2025,True,True,True,,True,True,journal-article,True,4,12,13
+10.1108/s2754-58652025000004b004,2025,Review of Management Literature,Review,False,True,W4413163056,review,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1002/csr.2675,2024,Corporate Social Responsibility and Environmental Management,Article,False,True,W4391052401,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,23,32,32
+10.1016/j.bar.2024.101494,2024,British Accounting Review,Article,False,True,W4402838432,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,15,18,15
+10.1108/s2754-58652025000004b007,2025,Review of Management Literature,Review,True,True,W4413162972,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,1,1
+10.1007/s43621-025-02298-z,2026,Discover Sustainability,Review,False,True,W4417232965,review,2025,True,True,True,,True,False,journal-article,False,0,2,2
+10.1108/s2754-58652025000004b006,2025,Review of Management Literature,Review,True,True,W4413162966,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1016/j.resourpol.2021.102445,2021,Resources Policy,Article,False,True,W3209394144,article,2021,False,True,True,,True,False,journal-article,True,386,444,413
+10.1016/j.iref.2025.104658,2025,International Review of Economics and Finance,Article,False,True,W7083587470,article,2025,True,True,True,,True,False,journal-article,True,2,14,14
+10.3390/economies12030054,2024,Economies,Article,False,True,W4392058746,article,2024,True,True,True,,True,True,journal-article,True,33,43,38
+10.1007/s13132-024-02197-0,2025,Journal of the Knowledge Economy,Article,False,True,W4400660773,article,2024,False,True,True,,True,False,journal-article,True,22,29,31
+10.1016/j.iref.2023.07.056,2024,International Review of Economics and Finance,Article,False,True,W4385247595,article,2023,False,True,True,,True,False,journal-article,True,101,117,111
+10.1515/econ-2025-0156,2025,Economics,Article,False,True,W4412102148,article,2025,True,True,True,,True,True,journal-article,True,3,5,5
+10.1016/j.resourpol.2024.104650,2024,Resources Policy,Article,False,True,W4391074231,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,8,10,8
+10.1108/s2754-58652025000004a007,2025,Review of Management Literature,,True,True,W4413166561,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1016/j.jclimf.2025.100060,2025,Journal of Climate Finance,Article,False,True,W4406071955,article,2025,True,True,True,,True,False,journal-article,False,7,17,13
+10.1016/j.resourpol.2023.104035,2023,Resources Policy,Article,False,True,W4385841117,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,33,44,36
+10.1007/s43621-025-01356-w,2025,Discover Sustainability,Article,False,True,W4410918031,article,2025,True,True,True,,True,False,journal-article,True,11,26,26
+10.1002/sd.70512,2025,Sustainable Development,Article,False,True,W4416894185,article,2025,True,True,True,,True,True,journal-article,True,1,4,4
+10.1108/s2754-58652025000004b003,2025,Review of Management Literature,Review,True,True,W4413163084,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1007/s10668-024-05888-5,2024,"Environment, Development and Sustainability",Article,False,True,W4405635091,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,5,5,6
+10.1016/j.irfa.2024.103871,2025,International Review of Financial Analysis,Article,False,True,W4405183706,article,2024,True,True,True,,True,False,journal-article,True,49,77,73
+10.3390/su152014683,2023,Sustainability (Switzerland),Article,False,True,W4387476676,article,2023,True,True,True,,True,True,journal-article,True,39,67,61
+10.64211/oidaijsd190301,2026,OIDA International Journal of Sustainable Development,Article,False,True,W7130821795,review,2026,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,0,0,0
+10.55493/5002.v16i1.5785,2026,Asian Economic and Financial Review,Article,False,True,W7117739504,article,2025,True,True,True,,True,True,journal-article,True,0,1,1
+10.17549/gbfr.2025.30.11.78,2025,Global Business and Finance Review,Article,False,True,W4416678854,article,2025,True,True,True,,True,True,journal-article,False,0,0,0
+10.3390/fintech4010001,2025,FinTech,Article,False,True,W4405824707,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,4,6,6
+10.1108/s2754-58652025000004b005,2025,Review of Management Literature,Review,True,True,W4413163226,review,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,1,1
+10.3390/su16177336,2024,Sustainability (Switzerland),Article,False,True,W4401883363,article,2024,True,True,True,,True,True,journal-article,True,5,8,8
+10.3390/ijfs13020090,2025,International Journal of Financial Studies,Article,False,True,W4410862691,article,2025,True,True,True,,True,True,journal-article,True,2,13,13
+10.1016/j.resourpol.2023.104494,2024,Resources Policy,Article,False,True,W4389426327,article,2023,False,True,True,,True,False,journal-article,True,84,97,91
+10.3390/su17083701,2025,Sustainability (Switzerland),Article,False,True,W4409606322,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,7,13,13
+10.1016/j.resourpol.2023.104476,2024,Resources Policy,Article,False,True,W4389426319,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,16,15,12
+10.3390/su18041710,2026,Sustainability (Switzerland),Article,False,True,W7128209591,article,2026,True,True,True,,True,True,journal-article,True,0,2,2
+10.1016/j.joitmc.2025.100468,2025,"Journal of Open Innovation: Technology, Market, and Complexity",Article,False,True,W4406140323,article,2025,True,True,True,,True,False,journal-article,False,14,28,27
+10.46970/2023.29.2.14,2023,International Journal of Operations and Quantitative Management,Article,False,False,,,,False,False,False,no OpenAlex record for this DOI,False,False,,False,8,,
+10.70102/afts.2025.1732.033,2025,Archives for Technical Sciences,Article,False,True,W4409142760,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,12,2,2
+10.1016/j.resourpol.2023.104126,2023,Resources Policy,Article,False,True,W4387209272,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,16,18,13
+10.1109/tem.2024.3415774,2024,IEEE Transactions on Engineering Management,Article,False,True,W4399768427,article,2024,True,True,True,,True,False,journal-article,False,18,35,33
+10.1002/sd.3427,2025,Sustainable Development,Review,False,True,W4408310810,review,2025,True,True,True,,True,True,journal-article,True,4,9,9
+10.3390/su18052182,2026,Sustainability (Switzerland),Article,False,True,W7131220693,article,2026,True,True,True,,True,True,journal-article,True,,1,1
+10.1016/j.ecolecon.2021.107308,2022,Ecological Economics,Article,False,True,W4200447668,article,2021,True,True,True,,True,False,journal-article,True,512,635,611
+10.1016/j.frl.2025.108113,2025,Finance Research Letters,Article,False,True,W4413019295,article,2025,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,2,5,4
+10.3390/su15075903,2023,Sustainability (Switzerland),Article,False,True,W4361305536,article,2023,True,True,True,,True,True,journal-article,True,31,51,46
+10.1016/j.resourpol.2024.105159,2024,Resources Policy,Article,False,True,W4400601453,article,2024,False,True,True,,True,False,journal-article,True,9,18,19
+10.3390/su13137012,2021,Sustainability (Switzerland),Review,False,True,W3173199522,article,2021,True,True,True,,True,True,journal-article,True,292,358,312
+10.1111/1467-8551.12901,2025,British Journal of Management,Article,False,True,W4407262674,article,2025,True,True,True,,True,True,journal-article,True,15,28,27
+10.1108/s2754-58652025000004b002,2025,Review of Management Literature,Review,False,True,W4413163326,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,1,1,1
+10.1016/j.resourpol.2023.104515,2024,Resources Policy,Article,False,True,W4389814805,article,2023,False,True,True,,True,False,journal-article,True,52,58,57
+10.1016/j.resourpol.2023.104433,2024,Resources Policy,Article,False,True,W4389120595,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,28,35,32
+10.1002/sd.70603,2025,Sustainable Development,Article,False,True,W7117452606,article,2025,True,True,True,,True,True,journal-article,True,0,2,2
+10.1002/sd.70322,2026,Sustainable Development,Article,False,True,W4415960472,article,2025,True,True,True,,True,True,journal-article,True,0,15,15
+10.1002/jsc.2623,2025,Strategic Change,Article,False,True,W4405559063,article,2024,True,True,True,,True,True,journal-article,True,5,18,17
+10.1002/sd.70709,2026,Sustainable Development,Article,False,True,W7125673962,article,2026,True,True,True,,True,True,journal-article,True,0,1,1
+10.1080/13504509.2023.2183526,2023,International Journal of Sustainable Development and World Ecology,Article,False,True,W4322494417,article,2023,True,True,True,,True,False,journal-article,True,178,234,198
+10.1016/j.ssaho.2026.102528,2026,Social Sciences and Humanities Open,Article,False,True,W7129674789,article,2026,True,True,True,,True,False,journal-article,False,0,3,3
+10.1080/08963568.2024.2362096,2024,Journal of Business and Finance Librarianship,Article,False,True,W4399615203,article,2024,True,True,True,,True,False,journal-article,False,1,4,4
+10.1016/j.jclepro.2022.135196,2022,Journal of Cleaner Production,Article,False,True,W4308814024,article,2022,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,109,131,121
+10.1108/s2754-58652025000004a005,2025,Review of Management Literature,Review,True,True,W4413166759,review,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,1,1
+10.1186/s40854-025-00855-z,2026,Financial Innovation,Review,False,True,W7131273257,article,2026,True,True,True,,True,True,journal-article,True,0,0,2
+10.1002/bse.70071,2025,Business Strategy and the Environment,Article,False,True,W4412820477,article,2025,True,True,True,,True,True,journal-article,True,7,15,15
+10.1108/cfri-07-2024-0393,2025,China Finance Review International,Article,False,True,W4406882548,article,2025,True,True,True,,True,True,journal-article,True,9,30,31
+10.1016/j.resourpol.2024.105086,2024,Resources Policy,Article,False,True,W4399120787,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,12,18,17
+10.1108/jal-08-2025-0450,2025,Journal of Accounting Literature,Article,False,True,W7118179050,article,2026,True,True,True,,True,True,journal-article,True,0,1,1
+10.1016/j.trd.2025.104824,2025,Transportation Research Part D: Transport and Environment,Article,False,True,W4410599434,article,2025,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,4,10,10
+10.1108/apjba-10-2023-0497,2025,Asia-Pacific Journal of Business Administration,Article,False,True,W4394819696,article,2024,True,True,True,,True,True,journal-article,True,65,121,109
+10.1016/j.resourpol.2024.105064,2024,Resources Policy,Article,False,True,W4399078052,article,2024,False,True,True,,True,False,journal-article,True,18,33,33
+10.3390/jrfm17110507,2024,Journal of Risk and Financial Management,Review,False,True,W4404267054,article,2024,True,True,True,,True,True,journal-article,True,10,21,21
+10.1002/sd.3212,2025,Sustainable Development,Article,False,True,W4403302267,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,8,12,12
+10.1016/j.irfa.2025.103920,2025,International Review of Financial Analysis,Article,False,True,W4406213585,article,2025,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,18,34,36
+10.1016/j.gfj.2024.101022,2024,Global Finance Journal,Article,False,True,W4401023884,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,7,12,8
+10.1108/jstpm-02-2025-0033,2025,Journal of Science and Technology Policy Management,Review,False,True,W4413985372,article,2025,True,True,True,,True,True,journal-article,True,4,13,14
+10.1080/13602381.2025.2515114,2025,Asia Pacific Business Review,Article,False,True,W4411219510,article,2025,True,True,True,,True,False,journal-article,True,1,3,2
+10.1016/j.frl.2024.106617,2025,Finance Research Letters,Article,False,True,W4405260549,article,2024,False,True,True,,True,False,journal-article,True,17,27,28
+10.1186/s40008-025-00354-5,2025,Journal of Economic Structures,Article,False,True,W4411928877,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,5,8,9
+10.1108/ajim-09-2023-0371,2025,Aslib Journal of Information Management,Article,False,True,W4399416434,article,2024,True,True,True,,True,True,journal-article,True,12,20,19
+10.32479/ijeep.15691,2024,International Journal of Energy Economics and Policy,Article,False,True,W4400358612,article,2024,True,True,True,,True,True,journal-article,True,10,19,16
+10.18267/j.cebr.368,2024,Central European Business Review,Article,False,True,W4405795178,review,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,False,journal-article,False,6,9,9
+10.1080/1540496x.2024.2430500,2025,Emerging Markets Finance and Trade,Article,False,True,W4404568499,article,2024,True,True,True,,True,False,journal-article,True,10,17,15
+10.1016/j.frl.2024.106424,2025,Finance Research Letters,Article,False,True,W4404089635,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,5,14,14
+10.3390/jrfm18080420,2025,Journal of Risk and Financial Management,Review,False,True,W4412932118,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,1,5,6
+10.1108/s2754-58652025000004a002,2025,Review of Management Literature,Review,True,True,W4413166829,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,1,0,0
+10.1016/j.resourpol.2024.104968,2024,Resources Policy,Article,False,True,W4394835215,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,21,28,28
+10.3390/su17188185,2025,Sustainability (Switzerland),Article,False,True,W4414122655,article,2025,True,True,True,,True,True,journal-article,True,1,1,3
+10.1016/j.iref.2025.104140,2025,International Review of Economics and Finance,Article,False,True,W4410050133,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,False,journal-article,False,2,3,4
+10.3390/ijfs13040245,2025,International Journal of Financial Studies,Article,False,True,W4417454816,article,2025,True,True,True,,True,True,journal-article,True,0,1,1
+10.1007/s10668-024-05350-6,2024,"Environment, Development and Sustainability",Article,False,True,W4402097921,article,2024,False,True,True,,True,False,journal-article,True,7,8,5
+10.1108/s2754-58652025000004a003,2025,Review of Management Literature,Review,True,True,W4413166802,book-chapter,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,book-chapter,False,0,0,0
+10.1016/j.resourpol.2024.105116,2024,Resources Policy,Article,False,True,W4399376841,article,2024,False,True,True,,True,False,journal-article,True,12,21,18
+10.1016/j.eap.2023.02.001,2023,Economic Analysis and Policy,Article,False,True,W4322761820,article,2023,False,True,True,,True,False,journal-article,True,139,177,155
+10.1016/j.resourpol.2023.104464,2024,Resources Policy,Article,False,True,W4389612582,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,27,36,32
+10.1016/j.resourpol.2023.104219,2023,Resources Policy,Article,False,True,W4387849955,article,2023,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,21,32,29
+10.1002/sd.70328,2026,Sustainable Development,Article,False,True,W4415236892,article,2025,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,0,2,2
+10.24136/oc.3020,2025,Oeconomia Copernicana,Article,False,True,W4404592525,article,2024,True,False,False,"terms only in Scopus keywords, not in OpenAlex title+abstract",True,True,journal-article,False,2,5,4
+10.1016/j.resourpol.2024.105280,2024,Resources Policy,Article,False,True,W4401918748,article,2024,False,False,False,"OpenAlex has no abstract, terms not in title",True,False,journal-article,False,2,4,4
+10.3934/gf.2024012,2024,Green Finance,Article,False,True,W4399703448,article,2024,True,True,True,,True,True,journal-article,True,3,4,4

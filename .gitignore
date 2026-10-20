@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+# Secrets and local config
+.env
+*.key
+# Large or restricted data (re-create with the scripts)
+/data/raw/
+*.gguf
+*.bin
+*.safetensors
+# OS / editor
+.DS_Store
+Thumbs.db

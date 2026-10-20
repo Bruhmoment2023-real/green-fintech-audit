@@ -1,0 +1,24 @@
+{
+ "raw": {
+  "documents": 168,
+  "sources": 77,
+  "mean_cites": 22.55,
+  "articles": 138,
+  "reviews": 29,
+  "docs_missing_type": 1,
+  "authors_distinct_names": 453,
+  "single_authored": 24,
+  "with_author_keywords": 163
+ },
+ "clean": {
+  "documents": 155,
+  "sources": 77,
+  "mean_cites": 24.45,
+  "articles": 137,
+  "reviews": 18,
+  "docs_missing_type": 0,
+  "authors_distinct_names": 434,
+  "single_authored": 22,
+  "with_author_keywords": 150
+ }
+}

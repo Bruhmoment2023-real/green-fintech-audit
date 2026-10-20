@@ -1,0 +1,6 @@
+﻿item,value
+true OpenAlex search hits (all pages fetched),574
+true hits that also satisfy the local string rule,519
+true hits already found by the emulated route,449
+string-matching works found ONLY by the true search,119
+string-matching works found ONLY by the emulated route,92

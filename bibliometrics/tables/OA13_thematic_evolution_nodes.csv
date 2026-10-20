@@ -1,0 +1,17 @@
+"name","group","label","slice","color","id","sum","freq"
+"china","2021-2021","china--2021-2021","1","#E41A1C80",0,0.125,3
+"financial regulation","2021-2021","financial regulation--2021-2021","1","#FF7F0080",1,0.0833333333333333,2
+"green finance","2021-2021","green finance--2021-2021","1","#377EB880",2,0.708333333333333,17
+"green finance policy","2021-2021","green finance policy--2021-2021","1","#E41A1C80",3,0.0833333333333333,4
+"blockchain","2022-2024","blockchain--2022-2024","2","#4DAF4A80",4,0.146616541353383,112
+"citizen participation","2022-2024","citizen participation--2022-2024","2","#A6562880",5,0.0056390977443609,17
+"energy efficiency","2022-2024","energy efficiency--2022-2024","2","#F781BF80",6,0.0112781954887218,16
+"environmental sustainability","2022-2024","environmental sustainability--2022-2024","2","#E41A1C80",7,0.221804511278195,146
+"green finance","2022-2024","green finance--2022-2024","2","#377EB880",8,0.432330827067669,302
+"green innovation","2022-2024","green innovation--2022-2024","2","#984EA380",9,0.0977443609022556,71
+"sustainable development","2022-2024","sustainable development--2022-2024","2","#66C2A580",10,0.0845864661654135,140
+"financial inclusion","2025-2026","financial inclusion--2025-2026","3","#4DAF4A80",11,0.195,816
+"fintech adoption","2025-2026","fintech adoption--2025-2026","3","#984EA380",12,0.13,519
+"green bonds","2025-2026","green bonds--2025-2026","3","#FC8D6280",13,0.0775,320
+"green finance","2025-2026","green finance--2025-2026","3","#377EB880",14,0.575,1188
+"esg integration","2025-2026","esg integration--2025-2026","3","#8DA0CB80",15,0.0225,129

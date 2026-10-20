@@ -1,0 +1,58 @@
+{
+ "all_review_type_records": {
+  "A1_database": [
+   55,
+   98,
+   56.1
+  ],
+  "A2_n_records": [
+   45,
+   98,
+   45.9
+  ],
+  "A3_period": [
+   56,
+   98,
+   57.1
+  ],
+  "A4_software": [
+   31,
+   98,
+   31.6
+  ],
+  "A5_protocol": [
+   18,
+   98,
+   18.4
+  ]
+ },
+ "bibliometric_only": {
+  "A1_database": [
+   43,
+   56,
+   76.8
+  ],
+  "A2_n_records": [
+   33,
+   56,
+   58.9
+  ],
+  "A3_period": [
+   39,
+   56,
+   69.6
+  ],
+  "A4_software": [
+   29,
+   56,
+   51.8
+  ],
+  "A5_protocol": [
+   8,
+   56,
+   14.3
+  ]
+ },
+ "n_all": 98,
+ "n_bibliometric": 56
+}

@@ -1,0 +1,20 @@
+﻿item,value
+rows in the raw export file,169
+malformed rows dropped (a reference fragment split across columns),1
+valid records,168
+"R0: search terms only in keywords, not both in title+abstract",35
+R1: records in an inherited volume-level keyword block,15
+R2: no fintech or green-finance term anywhere in title+abstract,14
+CONTAMINATED (R1 and R2),13
+in the block but on-topic by R2 (kept),2
+"R2 outside the block (possibly off-topic, hand check)",1
+cleaned corpus,155
+share of the 168 that is contaminated (%),7.74
+author keyword 'ai finance': records before -> after cleaning,15 -> 2
+author keyword 'digital leadership': records before -> after cleaning,15 -> 2
+author keyword 'fintech': records before -> after cleaning,107 -> 94
+author keyword 'green finance': records before -> after cleaning,107 -> 94
+author keyword 'supply chain resilience': records before -> after cleaning,15 -> 2
+author keyword 'sustainable finance': records before -> after cleaning,23 -> 10
+records with 'Rana S.' as an author: before -> after cleaning,15 -> 2
+source 'Review of Management Literature': records (rank) before -> after,15 (rank 2) -> 2 (rank 17)

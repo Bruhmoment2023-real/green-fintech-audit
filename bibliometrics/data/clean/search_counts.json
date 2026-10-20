@@ -1,0 +1,56 @@
+{
+ "semantic_scholar": {
+  "S0": {
+   "query": "fintech + \"green finance\"",
+   "total_reported": 434,
+   "fetched": 434
+  },
+  "S1": {
+   "query": "(fintech | \"fin-tech\" | \"financial technology\" | \"financial technologies\") + (\"green finance\" | \"green financing\")",
+   "total_reported": 497,
+   "fetched": 497
+  }
+ },
+ "crossref": {
+  "C0": {
+   "query": "fintech green finance",
+   "total_reported": 505701,
+   "fetched": 1000
+  },
+  "C1": {
+   "query": "financial technology green finance",
+   "total_reported": 2380606,
+   "fetched": 1000
+  },
+  "C2": {
+   "query": "green fintech",
+   "total_reported": 352422,
+   "fetched": 1000
+  },
+  "C3": {
+   "query": "fintech green finance carbon emissions",
+   "total_reported": 951823,
+   "fetched": 1000
+  },
+  "C4": {
+   "query": "fintech green finance sustainable development",
+   "total_reported": 2346120,
+   "fetched": 1000
+  },
+  "C5": {
+   "query": "fintech green finance natural resources",
+   "total_reported": 1006949,
+   "fetched": 1000
+  },
+  "C6": {
+   "query": "digital finance green finance fintech",
+   "total_reported": 1258658,
+   "fetched": 1000
+  },
+  "C7": {
+   "query": "fintech green finance bibliometric review",
+   "total_reported": 3292769,
+   "fetched": 1000
+  }
+ }
+}

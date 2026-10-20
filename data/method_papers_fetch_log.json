@@ -1,0 +1,70 @@
+{
+ "farooq2023": {
+  "doi": "10.1007/s11192-023-04765-8",
+  "status": "no open PDF reachable",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  }
+ },
+ "baas2020": {
+  "doi": "10.1162/qss_a_00019",
+  "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/qss_a_00019",
+  "pages": 10,
+  "status": "opened in full"
+ },
+ "aria2017": {
+  "doi": "10.1016/j.joi.2017.08.007",
+  "status": "no open PDF reachable",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  }
+ },
+ "donthu2021": {
+  "doi": "10.1016/j.jbusres.2021.04.070",
+  "status": "no open PDF reachable",
+  "oa": {
+   "is_oa": false,
+   "oa_status": "closed",
+   "oa_url": null,
+   "any_repository_has_fulltext": false
+  }
+ },
+ "gusenbauer2020": {
+  "doi": "10.1002/jrsm.1378",
+  "last_http": 403,
+  "tried": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrsm.1378"
+  ],
+  "status": "no open PDF reachable",
+  "oa": {
+   "is_oa": true,
+   "oa_status": "hybrid",
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrsm.1378",
+   "any_repository_has_fulltext": true
+  }
+ },
+ "zupic2015": {
+  "doi": "10.1177/1094428114562629",
+  "url": "https://research.gold.ac.uk/id/eprint/26859/1/Zupic%20Cater%202015%20-%20Bibliometric%20methods%20in%20management%20and%20organization.pdf",
+  "pages": 45,
+  "status": "opened in full"
+ },
+ "gusenbauer2019": {
+  "doi": "10.1007/s11192-018-2958-5",
+  "url": "https://link.springer.com/content/pdf/10.1007/s11192-018-2958-5.pdf",
+  "pages": 38,
+  "status": "opened in full"
+ },
+ "ellegaard2015": {
+  "doi": "10.1007/s11192-015-1645-z",
+  "url": "https://link.springer.com/content/pdf/10.1007/s11192-015-1645-z.pdf",
+  "pages": 23,
+  "status": "opened in full"
+ }
+}

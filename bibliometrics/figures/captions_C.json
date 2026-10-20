@@ -1,0 +1,51 @@
+[
+  {
+    "file": "C01_paired_sources",
+    "title": "Paired figure: Top 10 sources",
+    "what": "The same ranking computed on the raw Scopus export, the cleaned Scopus export and the OpenAlex rebuild; red bars are items that are not in the cleaned-Scopus top list.",
+    "how": "Tables produced by 02_bibliometrix.R (prefixes SR, SC, OA); names normalised (upper case, bracketed qualifiers removed) before matching. Full numbers in tables/C_difference_table.csv.",
+    "caution": "The OpenAlex corpus is larger and pulled seven months later, so some differences are time, not database; see database-comparison.md for the date-aligned counts."
+  },
+  {
+    "file": "C02_paired_keywords",
+    "title": "Paired figure: Top 15 keywords (Scopus: author keywords; OpenAlex: algorithmic keywords)",
+    "what": "The same ranking computed on the raw Scopus export, the cleaned Scopus export and the OpenAlex rebuild; red bars are items that are not in the cleaned-Scopus top list.",
+    "how": "Tables produced by 02_bibliometrix.R (prefixes SR, SC, OA); names normalised (upper case, bracketed qualifiers removed) before matching. Full numbers in tables/C_difference_table.csv.",
+    "caution": "Scopus author keywords and OpenAlex algorithmic keywords are different kinds of object; a low overlap here is a property of the databases, not evidence that the literature differs."
+  },
+  {
+    "file": "C03_paired_countries",
+    "title": "Paired figure: Top 10 countries (documents with at least one author from the country)",
+    "what": "The same ranking computed on the raw Scopus export, the cleaned Scopus export and the OpenAlex rebuild; red bars are items that are not in the cleaned-Scopus top list.",
+    "how": "Tables produced by 02_bibliometrix.R (prefixes SR, SC, OA); names normalised (upper case, bracketed qualifiers removed) before matching. Full numbers in tables/C_difference_table.csv.",
+    "caution": "The OpenAlex corpus is larger and pulled seven months later, so some differences are time, not database; see database-comparison.md for the date-aligned counts."
+  },
+  {
+    "file": "C04_paired_corresponding_countries",
+    "title": "Paired figure: Top 10 corresponding-author countries",
+    "what": "The same ranking computed on the raw Scopus export, the cleaned Scopus export and the OpenAlex rebuild; red bars are items that are not in the cleaned-Scopus top list.",
+    "how": "Tables produced by 02_bibliometrix.R (prefixes SR, SC, OA); names normalised (upper case, bracketed qualifiers removed) before matching. Full numbers in tables/C_difference_table.csv.",
+    "caution": "The OpenAlex corpus is larger and pulled seven months later, so some differences are time, not database; see database-comparison.md for the date-aligned counts."
+  },
+  {
+    "file": "C05_paired_authors",
+    "title": "Paired figure: Top 10 authors by documents",
+    "what": "The same ranking computed on the raw Scopus export, the cleaned Scopus export and the OpenAlex rebuild; red bars are items that are not in the cleaned-Scopus top list.",
+    "how": "Tables produced by 02_bibliometrix.R (prefixes SR, SC, OA); names normalised (upper case, bracketed qualifiers removed) before matching. Full numbers in tables/C_difference_table.csv.",
+    "caution": "The OpenAlex corpus is larger and pulled seven months later, so some differences are time, not database; see database-comparison.md for the date-aligned counts."
+  },
+  {
+    "file": "C06_paired_thematic_maps",
+    "title": "Paired thematic maps",
+    "what": "The thematic map (Callon centrality by density) for each corpus, side by side.",
+    "how": "Stitched from SR12/SC12/OA12_thematic_map.png (bibliometrix::thematicMap, n = 250, minfreq = 5 per thousand, Louvain, seed 1234). Scopus maps use author keywords, the OpenAlex map uses OpenAlex keywords. Cluster table: tables/C_thematic_map_clusters_by_corpus.csv.",
+    "caution": "Quadrants are relative ranks inside each corpus, and the keyword vocabularies differ between databases, so compare which topics cluster together, not exact positions."
+  },
+  {
+    "file": "C07_paired_year_distribution",
+    "title": "Year distribution by corpus",
+    "what": "Annual document counts in the raw Scopus export, the cleaned export and the OpenAlex rebuild.",
+    "how": "tables/SR02, SC02, OA02_annual_production.csv.",
+    "caution": "The two databases were queried seven months apart; the gap in 2025-2026 mixes later indexing with broader coverage."
+  }
+]

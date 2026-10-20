@@ -1,0 +1,109 @@
+id	label	weight<Documents>	weight<Citations>	score<Avg. pub. year>
+1	Yu Zhang	7	141	2024.57
+2	Γεωργία Ζουρνατζίδου	7	31	2025.4
+3	Soha Khan	6	45	2025.17
+4	Jian Zhang	4	70	2025.0
+5	Loso Judijanto	4	10	2024.75
+6	Saira Mahmood	4	2	2025.25
+7	Maxwell Chukwudi Udeagha	3	649	2023.0
+8	Abu Bakkar Siddik	3	356	2023.0
+9	Yong Li	3	186	2024.33
+10	Yiting Liu	3	150	2024.33
+11	Tingting Li	3	200	2023.67
+12	Ying Wang	3	23	2025.33
+13	Xiaobo Li	3	31	2025.0
+14	Congwei Wang	3	40	2024.33
+15	Md. Sharif Hassan	3	9	2025.67
+16	vidura perera	3	4	2026.0
+17	Sarmad Ejaz	3	3	2025.0
+18	Fawad Ali	3	1	2026.0
+19	Shuchi Gupta	3	13	2025.0
+20	Prashant Singh	3	0	2025.67
+21	Shuangliang Yao	2	444	2023.5
+22	Edwin Muchapondwa	2	384	2023.0
+23	Nawazish Mirza	2	178	2022.5
+24	Guang-Wen Zheng	2	328	2022.0
+25	Nenavath Sreenu	2	315	2022.5
+26	Ghazala Aziz	2	133	2023.5
+27	Jie Xu	2	128	2023.5
+28	Fu Chen	2	128	2023.5
+29	Nizomjon Shukurullaevich Khajimuratov	2	145	2023.5
+30	Haoqiang Wei	2	62	2024.5
+31	Nemer Badwan	2	47	2024.5
+32	Sanjeev Yadav	2	74	2025.0
+33	Muhammad Sadiq	2	111	2024.0
+34	Yuanyuan Sun	2	103	2024.0
+35	Xiaowan Xu	2	32	2025.0
+36	Yuqing Hao	2	35	2024.0
+37	Onyeka Chrisanctus Ofodile	2	103	2024.0
+38	Chinwe Chinazo Okoye	2	103	2024.0
+39	Faozi A. Almaqtari	2	33	2024.0
+40	Mariam Sohail	2	43	2024.0
+41	Ahsan Akbar	2	43	2024.0
+42	Laurence L. Delina	2	45	2022.5
+43	Min Chen	2	20	2025.0
+44	Omar Al-Kasasbeh	2	34	2024.0
+45	Suhaib Mohammed Al-Khazaleh	2	32	2024.5
+46	Junyu Wu	2	34	2024.5
+47	Mandella Osei‐Assibey Bonsu	2	18	2025.5
+48	Pushp Kumar	2	12	2025.0
+49	Ameni Boumaiza	2	55	2025.0
+50	Hui Wang	2	30	2025.0
+51	Ziang Wang	2	19	2025.0
+52	Lei Liu	2	28	2024.0
+53	Zhi Chen	2	18	2025.0
+54	Imran Khan	2	13	2025.5
+55	Muhammad Sadiq Shahid	2	13	2025.5
+56	Lu Zhang	2	10	2025.0
+57	Ying Huang	2	9	2025.5
+58	Xiaoqiang Cheng	2	11	2024.5
+59	Fatema Tuz Zahra	2	9	2026.0
+60	Wasanthi Madurapperuma	2	3	2026.0
+61	Nidhal Mgadmi	2	5	2026.0
+62	Wajdi Moussa	2	5	2026.0
+63	Anil Kumar	2	2	2025.0
+64	Abdelkader Mohamed Sghaier Derbali	2	1	2026.0
+65	Muhammad Yusuf Amin	2	1	2026.0
+66	Varun Kesavan	2	14	2024.5
+67	Aruna Polisetty	2	14	2024.5
+68	Hanzhi Zhang	2	21	2024.0
+69	Yuting Ding	2	11	2025.0
+70	Dingjun Yao	2	14	2025.0
+71	Yi Chen	2	9	2025.0
+72	Yuwei Zhu	2	10	2025.0
+73	Ezinne C Chukwuma-Eke	2	13	2022.0
+74	Ngozi Joan Isibor	2	13	2022.0
+75	Sunil Tiwari	2	8	2025.0
+76	Kamel Si Mohammed	2	8	2025.0
+77	Muhammad Muzammil Asghar	2	3	2025.5
+78	Wisnu Mawardi	2	4	2025.0
+79	Afnan Hassan	2	6	2025.0
+80	Emre Esat Topaloğlu	2	5	2024.5
+81	Tuğba Nur	2	5	2024.5
+82	İlhan Ege	2	5	2024.5
+83	Arief Rahman	2	1	2025.5
+84	Muhammad Ahmad	2	1	2025.5
+85	Uzma Bashir	2	1	2025.0
+86	Iryna V. Shkodinа	2	1	2025.0
+87	Jack Laurie Harris	2	1	2026.0
+88	Felicia Liu	2	1	2026.0
+89	Umar Hayat	2	1	2025.5
+90	Endah Dewi Purnamasari	2	1	2025.5
+91	Audia Stephani Syaputri	2	1	2025.5
+92	Rian Andriani	2	0	2025.0
+93	Sampurna Paudel	2	0	2026.0
+94	Muqaddas Waseem	2	0	2025.0
+95	Muhammad Iqbal Fasa	2	0	2026.0
+96	Anas Malik	2	0	2026.0
+97	Aakash Sharma	2	0	2026.0
+98	Saif Ur Rahman	2	0	2024.5
+99	Bright Akwasi Gyamfi	2	0	2026.0
+100	Hanif	2	0	2026.0
+101	Moh. Mukri	2	0	2026.0
+102	Hakimi Abdul Jabar	2	0	2026.0
+103	Deepa Sharma	2	0	2026.0
+104	Lavudi Vijay	2	0	2025.5
+105	Adedeji Daniel GBADEBO	2	0	2025.5
+106	Zahra Sharifi Azghandi	2	0	2024.0
+107	Zadollah Fathi	2	0	2024.0
+108	Babak Pourbahrami	2	0	2024.0

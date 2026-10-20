@@ -1,0 +1,37 @@
+[
+ {
+  "file": "P01_citation_network",
+  "title": "Direct citation network (PNG, and interactive HTML of the same name)",
+  "what": "Corpus documents as nodes, citations between them as links; colour = sub-literature, size = citations received from inside the corpus.",
+  "how": "Corpus: 497 documents, 2021-2026. Top 300 documents by local citations; 150 are connected (146 in the largest component). Reference lists from Semantic Scholar/OpenAlex; networkx spring layout seed 7; pyvis for the HTML.",
+  "caution": "Distances come from a force-directed layout and have no scale; papers without a reference list in the database look isolated even if they cite the field."
+ },
+ {
+  "file": "P02_key_paper_timeline",
+  "title": "Timeline of key papers",
+  "what": "The 30 most locally cited documents (and any named seed papers) placed at their publication date.",
+  "how": "Corpus: 497 documents, 2021-2026. Ranked by citations from other corpus documents; date = Semantic Scholar publication date (mid-year if only the year is known).",
+  "caution": "'Key' means most cited inside this corpus; very recent papers (2025-26) cannot have accumulated citations yet and are under-represented."
+ },
+ {
+  "file": "P03_publications_by_year_and_subfield",
+  "title": "Publications by year and sub-literature",
+  "what": "Stacked annual counts, each document assigned to one sub-literature.",
+  "how": "Corpus: 497 documents, 2021-2026. Sub-literature assigned by the keyword rules in search-protocol.md; a document matching several rules is counted under the first in the stated priority order (non-exclusive counts in tables/P03_year_by_sublit_nonexclusive.csv).",
+  "caution": "The split depends on the priority order and on the wording of the rules; the latest year is incomplete."
+ },
+ {
+  "file": "P04_coverage_heatmap",
+  "title": "Green fintech (OpenAlex corpus): country or region studied by outcome theme",
+  "what": "Number of corpus documents whose title or abstract mentions both the row term and the column term.",
+  "how": "Corpus: 497 documents, 2021-2026. Coding by regular expressions listed in config.json -> heatmap (title + abstract; 457 documents have an abstract). Cells are not exclusive.",
+  "caution": "Mention is not study design: a paper that names China once in its motivation counts the same as a Chinese panel study, and only title and abstract are read."
+ },
+ {
+  "file": "P05_main_path",
+  "title": "Main path (key-route) through the direct citation network",
+  "what": "The chain(s) of papers that carry the most citation 'traffic' from the earliest to the latest documents in the corpus.",
+  "how": "Corpus: 497 documents, 2021-2026. Direct citations between corpus documents made acyclic (links running backwards in time dropped, 610 links kept); search path count (SPC) weight per link; global key-route search from the 6 highest-SPC links, extended forwards and backwards along the highest-SPC neighbour. Tables: tables/P05_main_path_nodes.csv and _edges.csv.",
+  "caution": "A main path is one summary of the citation structure, driven by where reference lists are available; it is not a ranking of quality and it omits whole branches of the field."
+ }
+]

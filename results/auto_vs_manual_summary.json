@@ -1,0 +1,56 @@
+{
+ "n_judgements": 53,
+ "agreement_pct": 83.0,
+ "cohen_kappa": 0.37,
+ "auto_yes_manual_yes": 40,
+ "auto_yes_manual_no": 4,
+ "auto_no_manual_yes": 5,
+ "auto_no_manual_no": 4,
+ "disagreements": [
+  [
+   "R01",
+   "R5",
+   "auto no, manual yes"
+  ],
+  [
+   "R01",
+   "R7",
+   "auto yes, manual no"
+  ],
+  [
+   "R04",
+   "R3",
+   "auto yes, manual no"
+  ],
+  [
+   "R04",
+   "R7",
+   "auto yes, manual no"
+  ],
+  [
+   "R06",
+   "R8",
+   "auto no, manual yes"
+  ],
+  [
+   "R10",
+   "R5",
+   "auto no, manual yes"
+  ],
+  [
+   "S0",
+   "R5",
+   "auto no, manual yes"
+  ],
+  [
+   "S0",
+   "R6",
+   "auto no, manual yes"
+  ],
+  [
+   "S0",
+   "R10",
+   "auto yes, manual no"
+  ]
+ ]
+}

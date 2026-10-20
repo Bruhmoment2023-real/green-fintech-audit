@@ -1,0 +1,62 @@
+2026-10-13T17:13:18Z [s2] fintech + "green finance": 434
+2026-10-13T17:13:22Z [s2] (fintech | "fin-tech" | "financial technology" | "financial technologies") + ("green finance" | "green financing"): 497
+2026-10-13T17:13:24Z FAILED crossref crossref/gf0_e50c155a2c6c_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:24Z [crossref] fintech green finance: total None, taken 0
+2026-10-13T17:13:24Z FAILED crossref crossref/gf1_575af01d4993_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:24Z [crossref] financial technology green finance: total None, taken 0
+2026-10-13T17:13:25Z FAILED crossref crossref/gf2_f1f45db68225_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:25Z [crossref] green fintech: total None, taken 0
+2026-10-13T17:13:27Z FAILED crossref crossref/gf3_121aa9291b4e_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:27Z [crossref] fintech green finance carbon emissions: total None, taken 0
+2026-10-13T17:13:28Z FAILED crossref crossref/gf4_4b71f221cee3_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:28Z [crossref] fintech green finance sustainable development: total None, taken 0
+2026-10-13T17:13:30Z FAILED crossref crossref/gf5_44b6fe71193d_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:30Z [crossref] fintech green finance natural resources: total None, taken 0
+2026-10-13T17:13:31Z FAILED crossref crossref/gf6_53e4f71ec8a8_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:31Z [crossref] digital finance green finance fintech: total None, taken 0
+2026-10-13T17:13:33Z FAILED crossref crossref/gf7_3e55c1392812_o0.json.gz: HTTP 400: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"reference-coun
+2026-10-13T17:13:33Z [crossref] fintech green finance bibliometric review: total None, taken 0
+2026-10-13T17:13:33Z [discover] candidate DOIs: 569 (crossref prefiltered 0 of 0)
+2026-10-13T17:15:15Z [openalex by doi] 569 keys, 569 to fetch
+2026-10-13T17:16:32Z [s2] fintech + "green finance": 434
+2026-10-13T17:16:32Z [s2] (fintech | "fin-tech" | "financial technology" | "financial technologies") + ("green finance" | "green financing"): 497
+2026-10-13T17:16:40Z [crossref] fintech green finance: total 505701, taken 1000
+2026-10-13T17:16:49Z [crossref] financial technology green finance: total 2380606, taken 1000
+2026-10-13T17:16:56Z [crossref] green fintech: total 352422, taken 1000
+2026-10-13T17:17:03Z [crossref] fintech green finance carbon emissions: total 951823, taken 1000
+2026-10-13T17:17:11Z [crossref] fintech green finance sustainable development: total 2346120, taken 1000
+2026-10-13T17:17:18Z [crossref] fintech green finance natural resources: total 1006949, taken 1000
+2026-10-13T17:17:26Z [crossref] digital finance green finance fintech: total 1258658, taken 1000
+2026-10-13T17:17:34Z [crossref] fintech green finance bibliometric review: total 3292769, taken 1000
+2026-10-13T17:17:34Z [discover] candidate DOIs: 3149 (crossref prefiltered 2824 of 4534)
+2026-10-13T17:17:39Z [openalex by doi] 3149 keys, 2984 to fetch
+2026-10-13T17:20:30Z [openalex by doi] 500/2984
+2026-10-13T17:22:51Z [openalex by doi] 1000/2984
+2026-10-13T17:26:43Z [openalex by doi] 1500/2984
+2026-10-13T17:29:48Z [openalex by doi] 2000/2984
+2026-10-13T17:32:03Z [openalex by doi] 2500/2984
+2026-10-16T20:55:24Z [openalex search] gf_article_review HTTP 401: {"error":"API key required for cursor paging","message":"Paging past the first page with cursor= needs a free API key. Get one in a minute at https://openalex.o
+2026-10-16T20:55:24Z [openalex search] gf_article_review HTTP 401: {"error":"API key required for cursor paging","message":"Paging past the first page with cursor= needs a free API key. Get one in a minute at https://openalex.o
+2026-10-16T20:55:34Z [openalex search] gf_article_review HTTP 401: {"error":"API key required for cursor paging","message":"Paging past the first page with cursor= needs a free API key. Get one in a minute at https://openalex.o
+2026-10-16T20:55:34Z [openalex search] gf_article_review HTTP 401: {"error":"API key required for cursor paging","message":"Paging past the first page with cursor= needs a free API key. Get one in a minute at https://openalex.o
+2026-10-16T20:55:49Z [openalex search] gf_article_review complete: 574 of 574 records
+2026-10-16T20:58:09Z [s2] fintech + "green finance": 434
+2026-10-16T20:58:12Z [s2] (fintech | "fin-tech" | "financial technology" | "financial technologies") + ("green finance" | "green financing"): 497
+2026-10-16T20:58:17Z [crossref] fintech green finance: total 505701, taken 1000
+2026-10-16T20:58:21Z [crossref] financial technology green finance: total 2380606, taken 1000
+2026-10-16T20:58:58Z [crossref] green fintech: total 352422, taken 1000
+2026-10-16T20:58:59Z [crossref] fintech green finance carbon emissions: total 951823, taken 1000
+2026-10-16T20:59:03Z [crossref] fintech green finance sustainable development: total 2346120, taken 1000
+2026-10-16T20:59:05Z [crossref] fintech green finance natural resources: total 1006949, taken 1000
+2026-10-16T20:59:08Z [crossref] digital finance green finance fintech: total 1258658, taken 1000
+2026-10-16T20:59:12Z [crossref] fintech green finance bibliometric review: total 3292769, taken 1000
+2026-10-16T20:59:12Z [discover] candidate DOIs: 3149 (crossref prefiltered 2824 of 4534)
+2026-10-16T21:00:59Z [openalex by doi] 3149 keys, 0 to fetch
+2026-10-16T21:01:07Z [openalex] fetched 3241 works; string match 611; corpus (article/review, 2021-2026, English) 511
+2026-10-16T21:01:15Z [openalex] title duplicates removed: 14 -> corpus 497
+2026-10-16T21:01:22Z [refs] 9034 unique cited works; resolving 1488 cited at least twice
+2026-10-16T21:01:22Z [openalex refs] 1488 keys, 1488 to fetch
+2026-10-16T21:04:02Z [openalex refs] 500/1488
+2026-10-16T21:06:16Z [openalex refs] 1000/1488
+2026-10-16T21:08:22Z {"final_corpus": 497, "manual_exclusions": 0, "with_abstract": 457, "with_reference_list": 224, "with_openalex_record": 497, "with_institution": 405, "with_country": 400, "with_openalex_keywords": 496, "with_doi": 457, "reference_links": 12932, "reference_links_in_corpus": 611, "reference_links_with_resolved_metadata": 5335, "by_primary_sublit": {"E": 204, "B": 42, "Z": 23, "L": 111, "R": 31, "I": 72, "D": 14}, "by_doc_type": {"article": 470, "review": 27}}
+2026-10-16T21:39:19Z [pdfs] 1 of 28 core papers saved, 1.1 MB

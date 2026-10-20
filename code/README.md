@@ -1,0 +1,2 @@
+# code/ (pack 10)
+Run order and purposes are in `../depth/appendix/rerun.ps1`. `netcache.py` is the shared cached HTTP helper (no email or personal identifier is sent). Scripts write only inside this pack folder; Phase-2 `bibliometrics/` is read only. Heavy steps (prevalence.py, ~50 queries x Crossref and Semantic Scholar) are resumable via the cache; Semantic Scholar rate limits on 17 Oct 2026 made its part partial (7 of 50 queries).

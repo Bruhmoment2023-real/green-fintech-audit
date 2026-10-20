@@ -1,0 +1,219 @@
+[
+  {
+    "file": "SR02_annual_production",
+    "title": "Annual scientific production",
+    "what": "Number of corpus documents per publication year, with compound annual growth rates.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Counts of M$PY; growth from full years only. Table: tables/ SR02_annual_production .csv",
+    "caution": "Growth reflects what the search rules and the databases capture, and recent years are inflated by preprints that older years lack; it is not a clean measure of the field's true growth."
+  },
+  {
+    "file": "SR03_average_citations_per_year",
+    "title": "Average citations per year",
+    "what": "Mean total citations per document divided by years since publication, for each publication year.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Citations = database citation count at the pull date; citable years = 2026 - PY + 1.",
+    "caution": "A few very highly cited papers drive the peaks; years with few documents are unstable (point size shows n)."
+  },
+  {
+    "file": "SR04_most_relevant_sources",
+    "title": "Most relevant sources",
+    "what": "The 20 venues (journals, conferences, preprint servers) with the most corpus documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Source = venue string as supplied by the database, upper-cased.",
+    "caution": "Venue names are not fully harmonised (workshops and proceedings volumes can be split or merged), and a preprint server counts as one 'source'."
+  },
+  {
+    "file": "SR04_bradford_law",
+    "title": "Bradford's law",
+    "what": "Sources ranked by productivity; the shaded core zone holds about one third of all documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::bradford(); zones in tables/ SR04_bradford_zones .csv",
+    "caution": "Bradford zones describe concentration only; a 'core' source is the most frequent, not necessarily the best or the most relevant."
+  },
+  {
+    "file": "SR05_source_dynamics",
+    "title": "Source dynamics",
+    "what": "Cumulative number of corpus documents over time in the eight most frequent sources.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::sourceGrowth(top = 8, cdf = TRUE).",
+    "caution": "A steep recent line for a preprint server partly reflects papers that have not yet appeared in their final venue."
+  },
+  {
+    "file": "SR06_most_productive_authors",
+    "title": "Most productive authors",
+    "what": "Authors with the most documents in the corpus (each co-author counted once per paper).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Author strings 'SURNAME INITIALS' built from database author names; table also gives fractional counts and citations.",
+    "caution": "Authors are matched by surname and initials only, so different people with the same short name are merged and one person with name variants is split."
+  },
+  {
+    "file": "SR06_most_cited_authors",
+    "title": "Most cited authors",
+    "what": "Authors ranked by the summed global citation counts of their documents in the corpus.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Sum of database citation counts over each author's corpus papers; every co-author receives the full count.",
+    "caution": "One heavily cited multi-author paper lifts all of its co-authors; this is not a measure of individual contribution."
+  },
+  {
+    "file": "SR06_lotka_law",
+    "title": "Lotka's law",
+    "what": "Share of authors by number of corpus documents, against the inverse-square law.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::lotka(); table in tables/ SR06_lotka .csv",
+    "caution": "A good fit says only that most authors appear once; name ambiguity (see author caption) distorts the tail."
+  },
+  {
+    "file": "SR06_authors_production_over_time",
+    "title": "Authors' production over time",
+    "what": "For the 15 most productive authors: bubble size = documents that year, colour intensity = citations per year.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::authorProdOverTime(k = 15).",
+    "caution": "Same name-matching caveat as the author ranking; a gap in a line may be a missing record, not inactivity."
+  },
+  {
+    "file": "SR07_most_relevant_affiliations",
+    "title": "Most relevant affiliations",
+    "what": "Institutions appearing on the most corpus documents (once per document).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Affiliation/country data exist for 100% of documents (168 of 168). Institution names as disambiguated by the source database.",
+    "caution": "Coverage is partial and uneven: preprints and workshop papers often carry no affiliation in the database, so institutions that publish mainly that way are under-counted."
+  },
+  {
+    "file": "SR07_corresponding_author_countries",
+    "title": "Corresponding-author countries",
+    "what": "Documents by country of the corresponding (or first) author, split into single-country and multi-country papers.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Affiliation/country data exist for 100% of documents (168 of 168). Country from the institution country codes in the database.",
+    "caution": "Only documents with affiliation data are counted, so shares are of the covered subset, not of the whole corpus."
+  },
+  {
+    "file": "SR07_country_collaboration_map",
+    "title": "Country collaboration map",
+    "what": "Countries shaded by number of documents; red links join countries whose authors co-sign documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Affiliation/country data exist for 100% of documents (168 of 168). bibliometrix::biblioNetwork(collaboration, countries); links table in tables/.",
+    "caution": "Countries with no affiliation data in the database appear empty even if they publish in this field; a link is co-authorship, not funding or influence."
+  },
+  {
+    "file": "SR08_most_global_cited_documents",
+    "title": "Most globally cited documents",
+    "what": "Corpus documents with the most citations from anywhere in the database.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Citation count as reported by the source database at the pull date.",
+    "caution": "Global citations reward age and breadth: a general-purpose model or benchmark paper outranks a narrowly relevant study."
+  },
+  {
+    "file": "SR08_most_local_cited_documents",
+    "title": "Most locally cited documents",
+    "what": "Documents most cited by other documents inside the corpus - the field's own reference points.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Local citations counted by exact database identifiers where available (column LCS_exact_id_match); bibliometrix::localCitations() string matching is reported alongside as a cross-check.",
+    "caution": "Local counts depend on reference lists being available: documents whose citing papers have no reference list in the database are under-counted."
+  },
+  {
+    "file": "SR08_most_cited_references",
+    "title": "Most cited references",
+    "what": "The works the corpus cites most often, including works outside the corpus (the field's knowledge base).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::citations(field = 'article') over the reference strings.",
+    "caution": "Method and tool papers (models, toolkits, metrics) dominate such lists because nearly everyone cites them; frequency is not topical closeness."
+  },
+  {
+    "file": "SR09_rpys",
+    "title": "Reference publication year spectroscopy",
+    "what": "How many cited references were published in each year, and where that count jumps above its 5-year median (labelled peaks = historical roots).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::rpys(timespan 1950-2026, centred median window).",
+    "caution": "In a fast field almost all references are from the last few years, so the curve mostly mirrors the field's own growth; only the early, isolated peaks point to roots."
+  },
+  {
+    "file": "SR10_most_frequent_keywords",
+    "title": "Most frequent keywords",
+    "what": "The 30 most frequent author keywords.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Field DE; coverage 100%. ",
+    "caution": "Keyword counts depend on who assigned them: algorithmic keywords are consistent but coarse, author keywords are precise but unstandardised."
+  },
+  {
+    "file": "SR10_wordcloud",
+    "title": "Keyword word cloud",
+    "what": "The 120 most frequent author keywords; size proportional to document count.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). wordcloud::wordcloud(), seed 42.",
+    "caution": "A word cloud shows frequency only; position and colour carry no meaning, and long terms look bigger than short ones at equal counts."
+  },
+  {
+    "file": "SR10_keyword_treemap",
+    "title": "Keyword treemap",
+    "what": "Area of each tile = number of documents carrying the keyword (top 40).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). treemapify::geom_treemap().",
+    "caution": "Documents carry several keywords, so areas overlap in meaning and do not sum to the corpus."
+  },
+  {
+    "file": "SR10_trend_topics",
+    "title": "Trend topics",
+    "what": "For each year, the keywords whose median year of use falls there; bubble size = frequency, bar = interquartile range of years.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::fieldByYear(n.items = 4).",
+    "caution": "A term placed in a recent year is 'recent on average', not necessarily new: older steady terms can be hidden by the per-year cap of four items."
+  },
+  {
+    "file": "SR11_keyword_cooccurrence_network",
+    "title": "Keyword co-occurrence network",
+    "what": "Keywords (nodes, sized by frequency) linked when they appear on the same document; colours are Louvain communities.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). biblioNetwork(co-occurrences), association-strength normalisation, top 60 nodes, edges with at least 2 co-occurrences, Fruchterman-Reingold layout, seed 123.",
+    "caution": "Clusters change with the number of nodes, the normalisation and the random seed; read them as a rough grouping, not a fixed taxonomy."
+  },
+  {
+    "file": "SR12_thematic_map",
+    "title": "Thematic map",
+    "what": "Keyword clusters placed by centrality (links to other clusters) and density (internal cohesion): motor, niche, basic and emerging/declining themes.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::thematicMap(n = 250 keywords, minfreq = 5 per thousand documents, Louvain, seed 1234); cluster table in tables/.",
+    "caution": "Quadrant positions are relative ranks within this corpus only; a cluster near an axis can switch quadrant with a small change in settings."
+  },
+  {
+    "file": "SR13_thematic_evolution",
+    "title": "Thematic evolution",
+    "what": "Keyword clusters in each time slice and how they flow into clusters of the next slice (line width = share of shared keywords). Interactive version: same name .html; per-slice thematic maps: thematic_map_sliceN.png.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::thematicEvolution(cut years 2024, n = 250, minFreq = 5, Louvain, seed 1234).",
+    "caution": "Cut years are a choice; early slices hold few documents, so their themes rest on small numbers and the flows from them are fragile."
+  },
+  {
+    "file": "SR14_cocitation_references_network",
+    "title": "Co-citation network of references",
+    "what": "Cited works (nodes) linked when corpus documents cite them together; clusters approximate the intellectual bases of the field.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). biblioNetwork(co-citation, references) on references cited at least twice; top 60 nodes, edges with at least 3 co-citations, Louvain, Fruchterman-Reingold.",
+    "caution": "Only documents with a reference list in the database contribute, and reference strings are matched by first author, year and source, so variants of one work can appear as two nodes."
+  },
+  {
+    "file": "SR14_cocitation_sources_network",
+    "title": "Co-citation network of sources",
+    "what": "Venues (nodes) linked when works published in them are cited together by corpus documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). metaTagExtraction(CR_SO) then biblioNetwork(co-citation, sources); top 40 nodes.",
+    "caution": "Source names come from cited-reference strings and are unharmonised; 'ARXIV' is a single huge node that pulls everything towards it."
+  },
+  {
+    "file": "SR15_bibliographic_coupling_network",
+    "title": "Bibliographic coupling",
+    "what": "Corpus documents linked when their reference lists overlap; clusters are current research fronts.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). biblioNetwork(coupling, references), Salton normalisation, top 60 nodes, Louvain.",
+    "caution": "Coupling favours documents with long reference lists (surveys) and ignores documents whose references are missing from the database."
+  },
+  {
+    "file": "SR16_historiograph",
+    "title": "Historiograph (direct citation network)",
+    "what": "The 25 most locally cited documents arranged by year, with arrows for direct citations between them.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::histNetwork(min.citations = 16.25) and histPlot(n = 25).",
+    "caution": "The picture keeps only 25 nodes; an absent arrow can mean a missing reference list rather than no intellectual link."
+  },
+  {
+    "file": "SR17_collaboration_network_authors",
+    "title": "Author collaboration network",
+    "what": "Authors linked by co-authorship; clusters are research groups.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). biblioNetwork(collaboration, authors); top 60 authors; isolates removed.",
+    "caution": "Short author names merge namesakes, which can create false bridges between groups."
+  },
+  {
+    "file": "SR17_collaboration_network_institutions",
+    "title": "Institution collaboration network",
+    "what": "Institutions linked when their authors co-sign documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Affiliation/country data exist for 100% of documents (168 of 168). biblioNetwork(collaboration, universities); top 50.",
+    "caution": "Built only from the documents that carry affiliations in the database (see coverage); absent institutions are not necessarily inactive."
+  },
+  {
+    "file": "SR17_collaboration_network_countries",
+    "title": "Country collaboration network",
+    "what": "Countries linked by internationally co-authored documents.",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). Affiliation/country data exist for 100% of documents (168 of 168). biblioNetwork(collaboration, countries); top 35; circle layout.",
+    "caution": "Same coverage limit as the country map; large countries sit in the centre because they publish more, not because they 'lead'."
+  },
+  {
+    "file": "SR18_three_field_plot.html",
+    "title": "Three-field plot (interactive HTML)",
+    "what": "Sankey diagram linking author countries (left), keywords (middle) and sources (right).",
+    "how": "Corpus: Scopus export, raw (n = 168 documents, 2021-2026). bibliometrix::threeFieldsPlot(n = 12, 15, 12). Saved as HTML because the plotly widget cannot be rendered to PNG without a browser.",
+    "caution": "Only the top items of each field are shown, so flows describe the most frequent combinations, not the whole corpus."
+  }
+]

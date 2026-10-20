@@ -1,0 +1,66 @@
+{
+ "crossref": {
+  "rows": 5000,
+  "unique_ids": 3899,
+  "queries": 50,
+  "by_type": {
+   "journal": 2241,
+   "book/series": 1775,
+   "other:posted-content": 610,
+   "other:other": 115,
+   "other:peer-review": 90,
+   "proceedings": 85,
+   "other:report": 65,
+   "other:journal-issue": 10,
+   "other:dataset": 5,
+   "other:reference-book": 3,
+   "other:proceedings": 1
+  },
+  "book_series_or_proceedings_rows": 1860,
+  "book_series_or_proceedings_pct": 37.2,
+  "front_matter_rows": 93,
+  "container_only_matches": 653,
+  "container_only_in_book_proc": 361,
+  "pct_title_lacks_terms_journal": [
+   49.1,
+   2241
+  ],
+  "pct_title_lacks_terms_book/series": [
+   69.3,
+   1775
+  ],
+  "pct_title_lacks_terms_proceedings": [
+   52.9,
+   85
+  ]
+ },
+ "s2": {
+  "rows": 700,
+  "unique_ids": 549,
+  "queries": 7,
+  "by_type": {
+   "journal": 668,
+   "unknown": 14,
+   "proceedings": 12,
+   "book/series": 5,
+   "other:Review": 1
+  },
+  "book_series_or_proceedings_rows": 17,
+  "book_series_or_proceedings_pct": 2.4,
+  "front_matter_rows": 0,
+  "rows_with_abstract": 515,
+  "pct_off_terms_all_with_abstract": 1.6,
+  "pct_off_terms_journal": [
+   1.4,
+   495
+  ],
+  "pct_off_terms_book/series": [
+   null,
+   0
+  ],
+  "pct_off_terms_proceedings": [
+   8.3,
+   12
+  ]
+ }
+}

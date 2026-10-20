@@ -1,0 +1,25 @@
+{
+ "unique_container_only_book_proceedings_records": 301,
+ "sample": 60,
+ "counts": {
+  "R": 26,
+  "G": 19,
+  "F": 8,
+  "B": 7
+ },
+ "off_topic_F_plus_G_pct_with_95ci": [
+  45.0,
+  32.4,
+  57.6
+ ],
+ "borderline_pct": [
+  11.7,
+  3.5,
+  19.8
+ ],
+ "relevant_pct": [
+  43.3,
+  30.8,
+  55.9
+ ]
+}

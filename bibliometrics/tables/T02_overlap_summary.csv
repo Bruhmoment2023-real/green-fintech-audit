@@ -1,0 +1,27 @@
+﻿item,value
+"Scopus export, valid records",168.0
+"Scopus, contaminated records (rule in T01)",13.0
+"Scopus, cleaned corpus",155.0
+OpenAlex works fetched (all candidates),3241.0
+OpenAlex works matching the string in title+abstract,611.0
+"OpenAlex corpus (article/review, 2021-2026, English, title-deduplicated)",497.0
+OpenAlex corpus restricted to publication date <= Scopus export date,360.0
+"Crossref corpus (journal-article, string in Crossref title+abstract)",191.0
+Scopus 168 with an OpenAlex record (by DOI),166.0
+Scopus 168 with an abstract in OpenAlex,113.0
+Scopus 168 in the OpenAlex corpus,105.0
+Scopus cleaned 155 in the OpenAlex corpus,105.0
+Scopus contaminated 13 in the OpenAlex corpus,0.0
+OpenAlex corpus records not in the Scopus export,392.0
+  of which published after the export date,137.0
+Scopus 168 with a Crossref record,166.0
+Scopus 168 with an abstract in Crossref,82.0
+Scopus 168 findable by the string in Crossref's own title+abstract,89.0
+"Jaccard overlap, Scopus cleaned vs OpenAlex corpus (DOI)",0.207
+"Scopus-only reason: terms only in Scopus keywords, not in OpenAlex title+abstract",31.0
+"Scopus-only reason: OpenAlex has no abstract, terms not in title",30.0
+Scopus-only reason: no OpenAlex record for this DOI,2.0
+"OpenAlex-only reason: journal record before the export date: source not in Scopus, or Scopus search missed it (cannot be told apart without Scopus access)",243.0
+OpenAlex-only reason: published after the Scopus export date,137.0
+OpenAlex-only reason: preprint or repository record (not indexed by Scopus),10.0
+OpenAlex-only reason: no source recorded in OpenAlex,2.0

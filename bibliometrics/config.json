@@ -1,0 +1,126 @@
+{
+  "name": "10 Green fintech: Scopus export versus OpenAlex / Crossref rebuild (database-comparison audit)",
+  "year_min": 2021,
+  "year_max": 2026,
+  "sublits": {
+    "L": {
+      "label": "Reviews and bibliometric studies",
+      "rule": [
+        "\\b(bibliometric\\w*|scientometric\\w*|systematic (literature )?review|literature review|scoping review|science mapping|state of the art of the literature|research agenda)\\b"
+      ]
+    },
+    "E": {
+      "label": "Carbon emissions / environmental quality",
+      "rule": [
+        "\\b(carbon|co2|emissions?|environmental (quality|degradation|sustainability|performance|pollution|governance)|ecological footprint|climate|pollut\\w+)\\b"
+      ]
+    },
+    "R": {
+      "label": "Natural resources / energy",
+      "rule": [
+        "\\b(natural resources?|resource (curse|rents?|efficiency|extraction|dependence)|minerals?|renewable energy|energy (transition|efficiency|consumption|poverty))\\b"
+      ]
+    },
+    "I": {
+      "label": "Green innovation / firms / ESG",
+      "rule": [
+        "\\b(green (innovation|technolog\\w+|patents?)|corporate|firms?|enterprises?|esg|smes?)\\b"
+      ]
+    },
+    "B": {
+      "label": "Banking, credit, bonds, investment",
+      "rule": [
+        "\\b(bank\\w*|green (credit|bonds?|loans?|invest\\w+)|lending|credit)\\b"
+      ]
+    },
+    "D": {
+      "label": "Digital technology (AI, blockchain, digital finance)",
+      "rule": [
+        "\\b(blockchain|artificial intelligence|machine learning|big data|digital (finance|economy|transformation|inclusive finance)|financial inclusion)\\b"
+      ]
+    },
+    "Z": {
+      "label": "Other / none of the coded themes",
+      "rule": [
+        "(?!x)x"
+      ]
+    }
+  },
+  "primary_sublit_priority": [
+    "L",
+    "E",
+    "R",
+    "I",
+    "B",
+    "D",
+    "Z"
+  ],
+  "main_path_key_routes": 6,
+  "vos_max_nodes": 300,
+  "heatmap": {
+    "title": "Green fintech (OpenAlex corpus): country or region studied by outcome theme",
+    "row_title": "Country or region named in title/abstract",
+    "col_title": "Theme named in title/abstract",
+    "caution": "Mention is not study design: a paper that names China once in its motivation counts the same as a Chinese panel study, and only title and abstract are read.",
+    "rows": {
+      "China": "\\b(china|chinese)\\b",
+      "India": "\\b(india|indian)\\b",
+      "BRICS": "\\bbrics\\b",
+      "G7 / G20 / OECD": "\\b(g7|g-7|g20|g-20|oecd)\\b",
+      "ASEAN / Southeast Asia": "\\b(asean|southeast asia\\w*|indonesia|malaysia|vietnam|thailand)\\b",
+      "Europe / EU": "\\b(europe\\w*|\\beu\\b|european union)\\b",
+      "Pakistan / Bangladesh": "\\b(pakistan|bangladesh)\\b",
+      "Africa": "\\b(africa\\w*|nigeria|ghana|kenya)\\b",
+      "Middle East / GCC": "\\b(middle east|gcc|saudi|uae|mena)\\b",
+      "United States": "\\b(united states|u\\.s\\.|usa)\\b",
+      "Emerging / developing economies (generic)": "\\b(emerging (economies|markets)|developing (countries|economies)|e7)\\b",
+      "Global / cross-country panel": "\\b(global|cross-country|countries|panel of)\\b"
+    },
+    "cols": {
+      "Carbon emissions": "\\b(carbon|co2|emissions?)\\b",
+      "Environmental quality / sustainability": "\\b(environmental (quality|sustainability|degradation|performance)|ecological footprint)\\b",
+      "Natural resources": "\\b(natural resources?|resource (curse|rents?|efficiency))\\b",
+      "Renewable / energy": "\\b(renewable|energy)\\b",
+      "Green innovation": "\\bgreen (innovation|technolog\\w+)\\b",
+      "Green credit / bonds / banking": "\\b(green (credit|bonds?|loans?)|green bank\\w*)\\b",
+      "Economic growth / development": "\\b(economic (growth|development)|sustainable development)\\b",
+      "ESG / corporate": "\\b(esg|corporate|firms?)\\b",
+      "Financial inclusion": "\\bfinancial inclusion\\b",
+      "Bibliometric / review": "\\b(bibliometric\\w*|systematic (literature )?review|literature review)\\b"
+    }
+  },
+  "openalex_search": [
+    {
+      "tag": "gf_article_review",
+      "search": "fintech AND \"green finance\"",
+      "filter": "publication_year:2021-2026,type:article|review"
+    }
+  ],
+  "named_reviews": [
+    "10.3390/su152014683",
+    "10.1108/imefm-01-2024-0018",
+    "10.1504/ijge.2024.141407",
+    "10.3390/jrfm17100472",
+    "10.1016/j.procs.2024.09.643",
+    "10.18267/j.cebr.368",
+    "10.2139/ssrn.5042215",
+    "10.1016/j.ribaf.2024.102682",
+    "10.3390/admsci15040150",
+    "10.3390/jrfm18080420",
+    "10.1108/jstpm-02-2025-0033",
+    "10.1016/j.procs.2025.09.560",
+    "10.1002/sd.70611",
+    "10.1002/bsd2.70349",
+    "10.1016/j.sftr.2026.102074",
+    "10.1007/s11192-023-04765-8",
+    "10.3390/admsci16080387",
+    "10.1177/23779608251361012",
+    "10.1016/j.frl.2019.02.003"
+  ],
+  "protocol_databases": [
+    "Scopus: Sean's own export (`data/raw/scopus/fntech green finance.csv`, dated 2026-03-22, 169 rows, 168 valid), loaded into Bibliometrix with dbsource = \"scopus\". No Scopus login was available here.",
+    "OpenAlex: true title-and-abstract search (574 hits, basic paging) plus single-work lookups by DOI for candidates found elsewhere; merged and filtered with the same string rule. Anonymous quota was exhausted on 2026-10-13 and reset later; requests were slow, cached and carry no personal identifier.",
+    "Semantic Scholar Graph API (Boolean title+abstract search) and Crossref (free text, journal articles) as candidate discovery routes and for the Crossref comparison corpus.",
+    "Web of Science: no access; strings in scopus-queries.md."
+  ]
+}

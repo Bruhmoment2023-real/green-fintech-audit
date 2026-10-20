@@ -1,0 +1,12 @@
+{
+  "title": "Can green-fintech bibliometric reviews be re-run? A reporting audit and a test of metadata contamination",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, derived data and results for a reporting audit of 15 green-finance and fintech bibliometric reviews (ten-item checklist built from BIBLIO, PRIBA, PRISMA-S and PRISMA 2020), a prevalence test of book-series metadata contamination across 50 Crossref and Semantic Scholar queries, and a repair of one 168-record Scopus corpus, with an OpenAlex/Crossref rebuild for comparison. Record-level Scopus exports and full-text PDFs are not redistributed."
+}

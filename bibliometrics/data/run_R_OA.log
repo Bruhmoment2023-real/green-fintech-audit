@@ -1,0 +1,33 @@
+Corpus: OpenAlex rebuild: fintech AND green finance, 2021-2026 (n = 497 documents, 2021-2026). 
+[main information] 0.9s
+[annual production] 1.2s
+[average citations per year] 0.8s
+[most relevant sources] 0.3s
+[bradford] 1.0s
+[source dynamics] 1.2s
+[authors] 1.7s
+[lotka] 1.3s
+[authors production over time] 1.0s
+[affiliations] 0.9s
+[countries] 0.5s
+[country collaboration map] 3.5s
+[most global cited documents] 0.9s
+[most local cited documents] 1.0s
+[most local cited references] 1.3s
+[rpys] 1.6s
+[keywords] 5.0s
+[trend topics] 2.2s
+[co-occurrence network] 135.8s
+[thematic map] 13.1s
+[thematic evolution] 32.3s
+references: 1533 unique, 1493 cited at least twice
+[filter references] 0.1s
+[co-citation references] 83.8s
+[co-citation sources] 274.8s
+[bibliographic coupling] 175.0s
+[historiograph] 6.4s
+[collaboration authors] 9.0s
+[collaboration institutions] 7.9s
+[collaboration countries] 16.1s
+[three-field plot] 3.6s
+done. failures: 0 

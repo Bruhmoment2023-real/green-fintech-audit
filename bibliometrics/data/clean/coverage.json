@@ -1,0 +1,27 @@
+{
+ "final_corpus": 497,
+ "manual_exclusions": 0,
+ "with_abstract": 457,
+ "with_reference_list": 224,
+ "with_openalex_record": 497,
+ "with_institution": 405,
+ "with_country": 400,
+ "with_openalex_keywords": 496,
+ "with_doi": 457,
+ "reference_links": 12932,
+ "reference_links_in_corpus": 611,
+ "reference_links_with_resolved_metadata": 5335,
+ "by_primary_sublit": {
+  "E": 204,
+  "B": 42,
+  "Z": 23,
+  "L": 111,
+  "R": 31,
+  "I": 72,
+  "D": 14
+ },
+ "by_doc_type": {
+  "article": 470,
+  "review": 27
+ }
+}

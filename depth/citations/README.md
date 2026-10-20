@@ -1,0 +1,5 @@
+# Citation library (pack 10)
+- `references.bib` (48 entries) and `references.ris` (48 entries): built from Crossref's BibTeX and RIS transforms by `code/build_citations.py`; each BibTeX entry carries a `note` saying why it is in the pack. 48 unique DOIs requested, 0 could not be fetched: [].
+- Scope: the 15 reviews, six methodological sources, the manuscript's references that resolved in Crossref with an exact title match, and the ten most-cited papers from the Scopus export. Sources I did not open are marked in the `note` field of the files where I knew it (Farooq 2023, Aria and Cuccurullo 2017); the reading notes say which sources were opened in full.
+- Not resolvable in Crossref (not in the library; see `results/repair/reference_verdicts.csv`): 6 manuscript entries with no exact title match: ['R9', 'R13', 'R14', 'R15', 'R16', 'R17'].
+- Import into Zotero: File > Import and choose `references.ris` (or `references.bib`). Check the tags and notes after import; titles from Crossref sometimes keep HTML entities.

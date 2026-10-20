@@ -1,0 +1,50 @@
+[s2] fintech + "green finance": 434
+[s2] (fintech | "fin-tech" | "financial technology" | "financial technologies") + ("green finance" | "green financing"): 497
+[crossref] fintech green finance: total 505701, taken 1000
+[crossref] financial technology green finance: total 2380606, taken 1000
+[crossref] green fintech: total 352422, taken 1000
+[crossref] fintech green finance carbon emissions: total 951823, taken 1000
+[crossref] fintech green finance sustainable development: total 2346120, taken 1000
+[crossref] fintech green finance natural resources: total 1006949, taken 1000
+[crossref] digital finance green finance fintech: total 1258658, taken 1000
+[crossref] fintech green finance bibliometric review: total 3292769, taken 1000
+[discover] candidate DOIs: 3149 (crossref prefiltered 2824 of 4534)
+[openalex by doi] 3149 keys, 0 to fetch
+[openalex] fetched 3241 works; string match 611; corpus (article/review, 2021-2026, English) 511
+[openalex] title duplicates removed: 14 -> corpus 497
+Scopus export, valid records = 168
+Scopus, contaminated records (rule in T01) = 13
+Scopus, cleaned corpus = 155
+OpenAlex works fetched (all candidates) = 3241
+OpenAlex works matching the string in title+abstract = 611
+OpenAlex corpus (article/review, 2021-2026, English, title-deduplicated) = 497
+OpenAlex corpus restricted to publication date <= Scopus export date = 360
+Crossref corpus (journal-article, string in Crossref title+abstract) = 191
+Scopus 168 with an OpenAlex record (by DOI) = 166
+Scopus 168 with an abstract in OpenAlex = 113
+Scopus 168 in the OpenAlex corpus = 105
+Scopus cleaned 155 in the OpenAlex corpus = 105
+Scopus contaminated 13 in the OpenAlex corpus = 0
+OpenAlex corpus records not in the Scopus export = 392
+  of which published after the export date = 137
+Scopus 168 with a Crossref record = 166
+Scopus 168 with an abstract in Crossref = 82
+Scopus 168 findable by the string in Crossref's own title+abstract = 89
+Jaccard overlap, Scopus cleaned vs OpenAlex corpus (DOI) = 0.207
+Scopus-only reason: terms only in Scopus keywords, not in OpenAlex title+abstract = 31
+Scopus-only reason: OpenAlex has no abstract, terms not in title = 30
+Scopus-only reason: no OpenAlex record for this DOI = 2
+OpenAlex-only reason: journal record before the export date: source not in Scopus, or Scopus search missed it (cannot be told apart without Scopus access) = 243
+OpenAlex-only reason: published after the Scopus export date = 137
+OpenAlex-only reason: preprint or repository record (not indexed by Scopus) = 10
+OpenAlex-only reason: no source recorded in OpenAlex = 2
+VALIDATION ('true OpenAlex search hits (all pages fetched)', 574)
+VALIDATION ('true hits that also satisfy the local string rule', 519)
+VALIDATION ('true hits already found by the emulated route', 449)
+VALIDATION ('string-matching works found ONLY by the true search', 119)
+VALIDATION ('string-matching works found ONLY by the emulated route', 92)
+[refs] 9034 unique cited works; resolving 1488 cited at least twice
+[openalex refs] 1488 keys, 1488 to fetch
+[openalex refs] 500/1488
+[openalex refs] 1000/1488
+{"final_corpus": 497, "manual_exclusions": 0, "with_abstract": 457, "with_reference_list": 224, "with_openalex_record": 497, "with_institution": 405, "with_country": 400, "with_openalex_keywords": 496, "with_doi": 457, "reference_links": 12932, "reference_links_in_corpus": 611, "reference_links_with_resolved_metadata": 5335, "by_primary_sublit": {"E": 204, "B": 42, "Z": 23, "L": 111, "R": 31, "I": 72, "D": 14}, "by_doc_type": {"article": 470, "review": 27}}

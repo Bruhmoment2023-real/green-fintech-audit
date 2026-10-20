@@ -1,0 +1,16 @@
+"dimension","pair","top_n","shared_in_top_n","jaccard_top_n","same_number_one","items_in_both_corpora","spearman_rho_on_shared_items"
+"sources","SR vs SC",10,9,0.818,TRUE,76,0.996
+"sources","SR vs OA",10,5,0.333,FALSE,51,0.82
+"sources","SC vs OA",10,5,0.333,FALSE,51,0.82
+"keywords","SR vs SC",15,11,0.579,TRUE,272,0.99
+"keywords","SR vs OA",15,7,0.304,FALSE,80,0.498
+"keywords","SC vs OA",15,8,0.364,FALSE,80,0.511
+"countries","SR vs SC",10,8,0.667,TRUE,53,0.997
+"countries","SR vs OA",10,6,0.429,TRUE,47,0.854
+"countries","SC vs OA",10,6,0.429,TRUE,46,0.851
+"corresponding_countries","SR vs SC",10,10,1,TRUE,32,1
+"corresponding_countries","SR vs OA",10,8,0.667,TRUE,27,0.691
+"corresponding_countries","SC vs OA",10,8,0.667,TRUE,27,0.691
+"authors","SR vs SC",10,9,0.818,FALSE,434,1
+"authors","SR vs OA",10,2,0.111,FALSE,268,0.618
+"authors","SC vs OA",10,2,0.111,FALSE,268,0.618

@@ -1,0 +1,76 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"fintech 26.4
+natural resources 5.1
+environmental sustainability 4.8
+china 1.9
+mmqr 1.2
+green investment 1.1
+renewable energy 1.1
+brics 0.9
+green growth 0.9
+asia 0.9","fintech
+natural resources
+environmental sustainability",25,1.53093058067478,58.5553304063942,7,6,"fintech","#E41A1C80",188
+2,"green finance 28.9
+fintech adoption 2.8
+digital transformation 2.2
+financial technology 1.8
+green innovation 1.6
+sustainable performance 1.6
+carbon emissions 1.5
+innovation 1.3
+g29 0.7
+green technology 0.7","green finance
+fintech adoption
+digital transformation",18,1.5494872626678,48.7990449923074,8,3,"green finance","#377EB880",155
+3,"sustainable development 8.8
+sustainable finance 5.6
+bibliometric analysis 5.5
+systematic literature review 3.5
+green fintech 3.2
+artificial intelligence 2.8
+esg 2.3
+esg performance 2.2
+digital financial inclusion 1.7
+green economy 1.7","sustainable development
+sustainable finance
+bibliometric analysis",16,1.78393037518038,66.6623263888889,9,8,"sustainable development","#4DAF4A80",79
+4,"sustainability 11.4
+blockchain 3.8
+saudi arabia 3.8
+g20 2
+innovations 2
+financial technology (fintech) 2
+cryptocurrency 1.9
+risk management 1.9
+crowdfunding 1.9
+finance 1.9","sustainability
+blockchain
+saudi arabia",12,1.09805194805195,69.6180555555555,6,9,"sustainability","#984EA380",38
+5,"financial inclusion 17.3
+digital finance 9.4
+sustainable development goals 7.9
+fintech innovation 3.2","financial inclusion
+digital finance
+sustainable development goals",4,0.746969696969697,27.8787878787879,4,1,"financial inclusion","#FF7F0080",24
+6,"economic growth 12.5
+co<sub>2</sub> emissions 9
+carbon neutrality 7.2
+sdgs 5.4
+brics economies 5.4
+energy innovation 5.4
+economic complexity 3.6","economic growth
+co<sub>2</sub> emissions
+carbon neutrality",7,0.766190476190476,58.2993197278912,5,5,"economic growth","#A6562880",27
+7,"information asymmetry 15.6
+green credit 11.7
+climate risk 7.8","information asymmetry
+green credit
+climate risk",3,0.277777777777778,45.8333333333333,2,2,"information asymmetry","#F781BF80",9
+8,"environmental performance 9.1
+structural equation model 6.1
+financial sustainability 6.1
+credit risk 6","environmental performance
+structural equation model
+financial sustainability",4,0.583333333333333,62.5,3,7,"environmental performance","#99999980",9
+9,"green transition 25.1","green transition",1,0,50,1,4,"green transition","#66C2A580",2

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Can green-fintech bibliometric reviews be re-run? A reporting audit and a test of metadata contamination"
+type: software
+authors:
+  - family-names: "Solano Paul"
+    given-names: "Sean"
+    affiliation: "Independent researcher"
+license: MIT
+repository-code: "https://github.com/Bruhmoment2023-real/green-fintech-audit"
