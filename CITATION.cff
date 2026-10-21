@@ -6,6 +6,7 @@ type: software
 authors:
   - family-names: "Solano Paul"
     given-names: "Sean"
+    orcid: "https://orcid.org/0009-0002-8465-4468"
     affiliation: "Independent researcher"
 license: MIT
 repository-code: "https://github.com/Bruhmoment2023-real/green-fintech-audit"
