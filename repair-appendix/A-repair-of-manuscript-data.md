@@ -2,7 +2,7 @@
 
 Source files (read only, copied to `data/source/`): `fntech green finance.csv` (Scopus export, md5 4526b6b3..., byte-identical to `fntech green finance (1).csv`) and the manuscript docx. Every number below was recomputed from the export by `code/screen_export.py`, `code/repair_tables.py`, `code/table4_compare.py`, `code/refcheck.py`, `code/verify_unresolved.py`; tables are in `results/repair/`. This appendix is data, not manuscript text.
 
-The export has 169 rows; one (row 88, "Rana S.; Islam M.Z.") is split across two rows by a line break inside a References field, leaving 168 valid records. The 168 valid rows parse as 138 articles, 29 reviews and one record whose document type sits in the broken fragment; the manuscript's 30 reviews presumably counts that record as a review (inference, not checked against the fragment).
+The export has 169 rows; one (row 88, "Rana S.; Islam M.Z.") is split across two rows by a line break inside a References field, leaving 168 valid records. The 168 valid rows parse as 138 articles, 29 reviews and one record whose document type sits in the broken fragment; the fragment's document-type field reads "Review", and the manuscript's document-type table ("Article 138, Review 30") counts that record as a review (checked against the export and the manuscript, 21 October 2026).
 
 ## A1. Contaminated records (`results/repair/screening_decisions.csv`)
 - 15 of 168 records (8.9 percent) have the source "Review of Management Literature", an Emerald book series volume. All 15 carry the identical keyword block "AI finance; Digital leadership; Fintech; Green finance; Supply chain resilience; Sustainable finance" and the series editor (Rana S.) as first author.
