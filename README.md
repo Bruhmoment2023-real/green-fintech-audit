@@ -1,5 +1,7 @@
 # Can green-fintech bibliometric reviews be re-run? A reporting audit and a test of metadata contamination
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537670 (this DOI always points to the latest version).
+
 **Author:** Sean Solano Paul, Independent researcher, Bengaluru, India.
 **Funding:** none. **Competing interests:** none.
 

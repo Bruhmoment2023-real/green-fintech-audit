@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Can green-fintech bibliometric reviews be re-run? A reporting audit and a test of metadata contamination"
+doi: 10.5281/zenodo.23537670
 type: software
 authors:
   - family-names: "Solano Paul"
